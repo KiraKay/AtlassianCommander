@@ -1,0 +1,3 @@
+([('main',
+   '/Users/kimberlyingram/PycharmProjects/AMTNew/dist/main',
+   'EXECUTABLE')],)
