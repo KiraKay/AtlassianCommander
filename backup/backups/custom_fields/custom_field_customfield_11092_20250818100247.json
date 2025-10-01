@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11092",
+  "key": "customfield_11092",
+  "name": "Time to review normal change",
+  "untranslatedName": "Time to review normal change",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11092]",
+    "Time to review normal change"
+  ],
+  "schema": {
+    "type": "sd-servicelevelagreement",
+    "custom": "com.atlassian.servicedesk:sd-sla-field",
+    "customId": 11092
+  }
+}

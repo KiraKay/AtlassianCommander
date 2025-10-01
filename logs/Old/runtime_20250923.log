@@ -1,0 +1,15 @@
+[09:33:38] Threaded task error: 'str' object has no attribute 'get'
+[09:33:41] Threaded task error: 'str' object has no attribute 'get'
+[09:45:16] Threaded task error: 'list' object is not callable
+[09:47:24] Threaded task error: 'list' object is not callable
+[09:50:43] Threaded task error: 'list' object is not callable
+[09:50:45] Threaded task error: 'list' object is not callable
+[10:15:51] Threaded task error: 'list' object is not callable
+[10:16:01] Threaded task error: 'str' object has no attribute 'get'
+[10:16:06] Threaded task error: 'list' object is not callable
+[10:17:06] Threaded task error: 'list' object is not callable
+[10:39:00] Threaded task error: 'list' object is not callable
+[10:39:38] Threaded task error: 'list' object is not callable
+[10:39:41] Threaded task error: 'list' object is not callable
+[11:03:56] Threaded task error: '_tkinter.tkapp' object has no attribute '_get_all_statuses'
+[11:29:05] Threaded task error: Item *Software Simplified Workflow for Project YC already exists

@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11082",
+  "key": "customfield_11082",
+  "name": "Planned end",
+  "untranslatedName": "Planned end",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Planned end",
+    "Planned end[Time stamp]",
+    "cf[11082]"
+  ],
+  "schema": {
+    "type": "datetime",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datetime",
+    "customId": 11082
+  }
+}

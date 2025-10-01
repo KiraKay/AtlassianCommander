@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11096",
+  "key": "customfield_11096",
+  "name": "Dev bugs root cause",
+  "untranslatedName": "Dev bugs root cause",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11096]",
+    "Dev bugs root cause",
+    "Dev bugs root cause[Radio Buttons]"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons",
+    "customId": 11096
+  }
+}

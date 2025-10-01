@@ -1,0 +1,21 @@
+{
+  "id": "customfield_11162",
+  "key": "customfield_11162",
+  "name": "Release Version",
+  "untranslatedName": "Release Version",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11162]",
+    "Release Version[Labels]",
+    "Release Version"
+  ],
+  "schema": {
+    "type": "array",
+    "items": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:labels",
+    "customId": 11162
+  }
+}

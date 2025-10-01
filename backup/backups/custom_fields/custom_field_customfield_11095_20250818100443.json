@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11095",
+  "key": "customfield_11095",
+  "name": "INF Custom Resolution Field",
+  "untranslatedName": "INF Custom Resolution Field",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11095]",
+    "INF Custom Resolution Field",
+    "INF Custom Resolution Field[Dropdown]"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11095
+  }
+}

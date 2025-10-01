@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11680",
+  "key": "customfield_11680",
+  "name": "Additional Information",
+  "untranslatedName": "Additional Information",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11680]",
+    "Additional Information[Paragraph]",
+    "Additional Information"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11707"
+    }
+  },
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "customId": 11680
+  }
+}

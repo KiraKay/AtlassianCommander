@@ -1,0 +1,21 @@
+{
+  "id": "customfield_11069",
+  "key": "customfield_11069",
+  "name": "Approvers",
+  "untranslatedName": "Approvers",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11069]",
+    "Approvers[User Picker (multiple users)]",
+    "Approvers"
+  ],
+  "schema": {
+    "type": "array",
+    "items": "user",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiuserpicker",
+    "customId": 11069
+  }
+}

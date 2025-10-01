@@ -1,0 +1,9 @@
+{
+  "name": "TCM: Jira Service Management default workflow",
+  "description": "This Jira Service Management default workflow was generated for Project TCM",
+  "lastModifiedDate": "23/Dec/21 3:35 AM",
+  "lastModifiedUser": "Oleksandr Lytvyn",
+  "lastModifiedUserAccountId": "6091a81833a9410071cbdd1f",
+  "steps": 5,
+  "default": false
+}

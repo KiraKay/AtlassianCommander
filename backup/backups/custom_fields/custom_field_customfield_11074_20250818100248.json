@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11074",
+  "key": "customfield_11074",
+  "name": "Source",
+  "untranslatedName": "Source",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Source[Dropdown]",
+    "cf[11074]",
+    "Source"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11074
+  }
+}

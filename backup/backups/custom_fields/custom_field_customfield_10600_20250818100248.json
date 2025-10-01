@@ -1,0 +1,19 @@
+{
+  "id": "customfield_10600",
+  "key": "customfield_10600",
+  "name": "Parent Link",
+  "untranslatedName": "Parent Link",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Parent Link",
+    "cf[10600]"
+  ],
+  "schema": {
+    "type": "any",
+    "custom": "com.atlassian.jpo:jpo-custom-field-parent",
+    "customId": 10600
+  }
+}

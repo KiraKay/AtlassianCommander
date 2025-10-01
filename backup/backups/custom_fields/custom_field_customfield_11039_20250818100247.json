@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11039",
+  "key": "customfield_11039",
+  "name": "Request participants",
+  "untranslatedName": "Request participants",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Request participants",
+    "cf[11039]"
+  ],
+  "schema": {
+    "type": "array",
+    "items": "user",
+    "custom": "com.atlassian.servicedesk:sd-request-participants",
+    "customId": 11039
+  }
+}

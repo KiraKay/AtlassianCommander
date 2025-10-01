@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11098",
+  "key": "customfield_11098",
+  "name": "Production URL",
+  "untranslatedName": "Production URL",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11098]",
+    "Production URL",
+    "Production URL[Short text]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11169"
+    }
+  },
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "customId": 11098
+  }
+}

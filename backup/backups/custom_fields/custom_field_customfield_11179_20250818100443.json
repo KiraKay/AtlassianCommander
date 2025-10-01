@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11179",
+  "key": "customfield_11179",
+  "name": "LDAP Client\u2019s Project",
+  "untranslatedName": "LDAP Client\u2019s Project",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11179]",
+    "LDAP Client\u2019s Project",
+    "LDAP Client\u2019s Project[Short text]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "customId": 11179
+  }
+}

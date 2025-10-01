@@ -1,0 +1,15 @@
+{
+  "id": "10001",
+  "name": "PTPLAT: Software Development Bug Screen Scheme",
+  "original_list_object": {
+    "id": 10001,
+    "name": "PTPLAT: Software Development Bug Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 10001
+    }
+  },
+  "detail": null,
+  "issueTypeScreenMappings": [],
+  "backup_timestamp": "2025-08-19T10:57:13"
+}

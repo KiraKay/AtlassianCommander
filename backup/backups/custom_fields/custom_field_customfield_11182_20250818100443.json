@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11182",
+  "key": "customfield_11182",
+  "name": "Callback URI",
+  "untranslatedName": "Callback URI",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Callback URI",
+    "Callback URI[URL Field]",
+    "cf[11182]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:url",
+    "customId": 11182
+  }
+}

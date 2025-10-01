@@ -1,0 +1,10 @@
+{
+  "id": 11483,
+  "name": "Jira Service Management IT Support Workflow Scheme generated for Project EUHR",
+  "description": "This Jira Service Management IT Support Workflow Scheme was generated for Project EUHR",
+  "defaultWorkflow": "Employee Review ICHR",
+  "issueTypeMappings": {
+    "10353": "EUHR: Service Request Fulfilment workflow for Jira Service Management"
+  },
+  "self": "https://openvpn.atlassian.net/rest/api/3/workflowscheme/11483"
+}

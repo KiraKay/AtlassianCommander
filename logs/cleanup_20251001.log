@@ -1,0 +1,4 @@
+[11:00:17] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20251001_110017.json
+[11:00:18] Trash field customfield_10677: OK
+[11:01:19] Pre-delete backup saved: backup/backups/workflows/full_backup_workflows_20251001_110119.json
+[11:01:19] Workflow delete requested but not supported: 7f132787-c740-46e7-a24e-139c538348b2

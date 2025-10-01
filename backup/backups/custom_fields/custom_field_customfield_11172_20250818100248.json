@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11172",
+  "key": "customfield_11172",
+  "name": "Ticket Resolution",
+  "untranslatedName": "Ticket Resolution",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Ticket Resolution[Paragraph]",
+    "Ticket Resolution",
+    "cf[11172]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "customId": 11172
+  }
+}

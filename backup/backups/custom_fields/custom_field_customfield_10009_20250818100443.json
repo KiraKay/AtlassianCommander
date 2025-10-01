@@ -1,0 +1,19 @@
+{
+  "id": "customfield_10009",
+  "key": "customfield_10009",
+  "name": "Epic Name",
+  "untranslatedName": "Epic Name",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[10009]",
+    "Epic Name"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.pyxis.greenhopper.jira:gh-epic-label",
+    "customId": 10009
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": 11341,
+  "name": "SECAS: Blank project workflow scheme",
+  "description": "",
+  "defaultWorkflow": "SECAS: Blank project default workflow",
+  "issueTypeMappings": {
+    "3": "SECAS: Blank project default workflow",
+    "5": "SECAS: Blank project default workflow"
+  },
+  "self": "https://openvpn.atlassian.net/rest/api/3/workflowscheme/11341"
+}

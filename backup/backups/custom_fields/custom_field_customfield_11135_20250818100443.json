@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11135",
+  "key": "customfield_11135",
+  "name": "Labels",
+  "untranslatedName": "Labels",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11135]",
+    "Labels[Labels]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11183"
+    }
+  },
+  "schema": {
+    "type": "array",
+    "items": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:labels",
+    "customId": 11135
+  }
+}

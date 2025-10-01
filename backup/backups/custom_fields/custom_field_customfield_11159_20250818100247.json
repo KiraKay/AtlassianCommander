@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11159",
+  "key": "customfield_11159",
+  "name": "Design URL",
+  "untranslatedName": "Design URL",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11159]",
+    "Design URL[URL Field]",
+    "Design URL"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:url",
+    "customId": 11159
+  }
+}

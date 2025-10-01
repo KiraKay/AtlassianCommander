@@ -1,0 +1,141 @@
+{
+  "itemType": "Workflows",
+  "collectedAt": "2025-09-03T12:20:31.458013Z",
+  "items": {
+    "DIS: Jira Service Management default workflow": {
+      "workflowsAll": [
+        {
+          "name": "jira",
+          "description": "The default Jira workflow.",
+          "steps": 5,
+          "default": true
+        },
+        {
+          "name": "classic default workflow",
+          "description": "The classic JIRA default workflow",
+          "steps": 5,
+          "default": false
+        },
+        {
+          "name": "SUP: Change Management workflow for Jira Service Management",
+          "description": "This Jira Service Management Change Management workflow was generated for Project SUP",
+          "lastModifiedDate": "19/Aug/24 2:12 PM",
+          "lastModifiedUser": "Kimberly Ingram",
+          "lastModifiedUserAccountId": "712020:d01ae92f-7be1-4fd2-aa85-5e5a7b9566f8",
+          "steps": 9,
+          "default": false
+        },
+        {
+          "name": "SUP: Jira Service Management default workflow",
+          "description": "This Jira Service Management default workflow was generated for Project SUP",
+          "lastModifiedDate": "19/Aug/24 2:12 PM",
+          "lastModifiedUser": "Kimberly Ingram",
+          "lastModifiedUserAccountId": "712020:d01ae92f-7be1-4fd2-aa85-5e5a7b9566f8",
+          "steps": 5,
+          "default": false
+        },
+        {
+          "name": "Builds Workflow",
+          "description": "Builds Workflow",
+          "steps": 7,
+          "default": false
+        },
+        {
+          "name": "DIS: Service Request Fulfilment workflow for Jira Service Management",
+          "description": "This Jira Service Management Service Request Fulfilment workflow was generated for Project DIS",
+          "lastModifiedDate": "27/Aug/24 7:58 AM",
+          "lastModifiedUser": "Kimberly Ingram",
+          "lastModifiedUserAccountId": "712020:d01ae92f-7be1-4fd2-aa85-5e5a7b9566f8",
+          "steps": 8,
+          "default": false
+        },
+        {
+          "name": "SUP: Problem Management workflow for Jira Service Management",
+          "description": "This Jira Service Management Problem Management workflow was generated for Project SUP",
+          "lastModifiedDate": "19/Aug/24 2:12 PM",
+          "lastModifiedUser": "Kimberly Ingram",
+          "lastModifiedUserAccountId": "712020:d01ae92f-7be1-4fd2-aa85-5e5a7b9566f8",
+          "steps": 7,
+          "default": false
+        },
+        {
+          "name": "SUP: Incident Management workflow for Jira Service Management",
+          "description": "This Jira Service Management Incident Management workflow was generated for Project SUP",
+          "lastModifiedDate": "19/Aug/24 2:12 PM",
+          "lastModifiedUser": "Kimberly Ingram",
+          "lastModifiedUserAccountId": "712020:d01ae92f-7be1-4fd2-aa85-5e5a7b9566f8",
+          "steps": 6,
+          "default": false
+        },
+        {
+          "name": "SUP: Service Request Fulfilment with Approvals workflow for Jira Service Management",
+          "description": "This Jira Service Management Service Request Fulfilment with Approvals workflow was generated for Project SUP",
+          "lastModifiedDate": "19/Aug/24 2:12 PM",
+          "lastModifiedUser": "Kimberly Ingram",
+          "lastModifiedUserAccountId": "712020:d01ae92f-7be1-4fd2-aa85-5e5a7b9566f8",
+          "steps": 9,
+          "default": false
+        },
+        {
+          "name": "DIS: Jira Service Management default workflow",
+          "description": "This Jira Service Management default workflow was generated for Project DIS",
+          "lastModifiedDate": "27/Aug/24 7:58 AM",
+          "lastModifiedUser": "Kimberly Ingram",
+          "lastModifiedUserAccountId": "712020:d01ae92f-7be1-4fd2-aa85-5e5a7b9566f8",
+          "steps": 5,
+          "default": false
+        },
+        {
+          "name": "SUP: Post-Incident Review workflow for Jira Service Management",
+          "description": "This Jira Service Management Post-Incident Review workflow was generated for Project SUP",
+          "lastModifiedDate": "19/Aug/24 2:12 PM",
+          "lastModifiedUser": "Kimberly Ingram",
+          "lastModifiedUserAccountId": "712020:d01ae92f-7be1-4fd2-aa85-5e5a7b9566f8",
+          "steps": 6,
+          "default": false
+        },
+        {
+          "name": "SUP: Service Request Fulfilment workflow for Jira Service Management",
+          "description": "This Jira Service Management Service Request Fulfilment workflow was generated for Project SUP",
+          "lastModifiedDate": "19/Aug/24 2:12 PM",
+          "lastModifiedUser": "Kimberly Ingram",
+          "lastModifiedUserAccountId": "712020:d01ae92f-7be1-4fd2-aa85-5e5a7b9566f8",
+          "steps": 8,
+          "default": false
+        }
+      ],
+      "referencedBySchemes": [
+        {
+          "id": 10003,
+          "name": "Jira Service Management IT Support Workflow Scheme generated for Project DIS",
+          "description": "This Jira Service Management IT Support Workflow Scheme was generated for Project DIS",
+          "defaultWorkflow": "jira",
+          "issueTypeMappings": {
+            "10013": "DIS: Jira Service Management default workflow",
+            "10012": "DIS: Jira Service Management default workflow",
+            "10014": "DIS: Service Request Fulfilment workflow for Jira Service Management"
+          },
+          "self": "https://dringramservices.atlassian.net/rest/api/3/workflowscheme/10003"
+        }
+      ],
+      "schemesDetail": [
+        {
+          "scheme": {
+            "id": 10003,
+            "name": "Jira Service Management IT Support Workflow Scheme generated for Project DIS",
+            "description": "This Jira Service Management IT Support Workflow Scheme was generated for Project DIS",
+            "defaultWorkflow": "jira",
+            "issueTypeMappings": {
+              "10013": "DIS: Jira Service Management default workflow",
+              "10012": "DIS: Jira Service Management default workflow",
+              "10014": "DIS: Service Request Fulfilment workflow for Jira Service Management"
+            },
+            "self": "https://dringramservices.atlassian.net/rest/api/3/workflowscheme/10003"
+          },
+          "projectAssociations": {}
+        }
+      ],
+      "projectsUsing": []
+    }
+  }
+}

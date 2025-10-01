@@ -1,0 +1,19 @@
+{
+  "id": "customfield_10700",
+  "key": "customfield_10700",
+  "name": "Development",
+  "untranslatedName": "development",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[10700]",
+    "development"
+  ],
+  "schema": {
+    "type": "any",
+    "custom": "com.atlassian.jira.plugins.jira-development-integration-plugin:devsummarycf",
+    "customId": 10700
+  }
+}

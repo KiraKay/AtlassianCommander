@@ -1,0 +1,17 @@
+{
+  "id": 12011,
+  "name": "IAAS Workflow Scheme",
+  "description": "",
+  "defaultWorkflow": "IaaS Workflow",
+  "issueTypeMappings": {
+    "1": "IaaS Workflow",
+    "3": "IaaS Workflow",
+    "5": "IaaS Workflow",
+    "10000": "IaaS Workflow",
+    "10287": "IaaS Workflow",
+    "10760": "IaaS Workflow",
+    "10358": "IaaS Workflow",
+    "10137": "IaaS Workflow"
+  },
+  "self": "https://openvpn.atlassian.net/rest/api/3/workflowscheme/12011"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11191",
+  "key": "customfield_11191",
+  "name": "Priority",
+  "untranslatedName": "Priority",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11191]",
+    "Priority[Radio Buttons]"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons",
+    "customId": 11191
+  }
+}

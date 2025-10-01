@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11091",
+  "key": "customfield_11091",
+  "name": "Time to close after resolution",
+  "untranslatedName": "Time to close after resolution",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11091]",
+    "Time to close after resolution"
+  ],
+  "schema": {
+    "type": "sd-servicelevelagreement",
+    "custom": "com.atlassian.servicedesk:sd-sla-field",
+    "customId": 11091
+  }
+}

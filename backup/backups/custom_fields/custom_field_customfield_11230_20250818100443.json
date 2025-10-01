@@ -1,0 +1,27 @@
+{
+  "id": "customfield_11230",
+  "key": "customfield_11230",
+  "name": "Customer segments",
+  "untranslatedName": "Customer segments",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11230]",
+    "Customer segments",
+    "Customer segments[Checkboxes]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11245"
+    }
+  },
+  "schema": {
+    "type": "array",
+    "items": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "customId": 11230
+  }
+}

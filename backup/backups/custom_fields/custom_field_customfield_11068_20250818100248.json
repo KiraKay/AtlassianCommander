@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11068",
+  "key": "customfield_11068",
+  "name": "Operational categorization",
+  "untranslatedName": "Operational categorization",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Operational categorization[Select List (cascading)]",
+    "Operational categorization",
+    "cf[11068]"
+  ],
+  "schema": {
+    "type": "option-with-child",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:cascadingselect",
+    "customId": 11068
+  }
+}

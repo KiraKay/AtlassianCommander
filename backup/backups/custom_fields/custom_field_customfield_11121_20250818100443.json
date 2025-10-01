@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11121",
+  "key": "customfield_11121",
+  "name": "TDT_Group",
+  "untranslatedName": "TDT_Group",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11121]",
+    "TDT_Group",
+    "TDT_Group[Dropdown]"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11121
+  }
+}

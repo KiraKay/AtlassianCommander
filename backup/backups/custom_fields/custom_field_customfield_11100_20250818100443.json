@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11100",
+  "key": "customfield_11100",
+  "name": "Related Website/Portal",
+  "untranslatedName": "Related Website/Portal",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11100]",
+    "Related Website/Portal",
+    "Related Website/Portal[Dropdown]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11169"
+    }
+  },
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11100
+  }
+}

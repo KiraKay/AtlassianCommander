@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11087",
+  "key": "customfield_11087",
+  "name": "Workaround",
+  "untranslatedName": "Workaround",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11087]",
+    "Workaround",
+    "Workaround[Paragraph]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "customId": 11087
+  }
+}

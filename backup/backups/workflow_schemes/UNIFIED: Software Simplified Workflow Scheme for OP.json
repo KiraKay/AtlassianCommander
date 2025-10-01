@@ -1,0 +1,22 @@
+{
+  "id": 11356,
+  "name": "UNIFIED: Software Simplified Workflow Scheme for OP",
+  "description": "UNIFIED: Software Simplified Workflow Scheme for OP",
+  "defaultWorkflow": "jira",
+  "issueTypeMappings": {
+    "1": "Workflow Standard2023",
+    "3": "Workflow Standard2023",
+    "10108": "Workflow Standard2023",
+    "4": "Workflow Standard2023",
+    "5": "Workflow Standard2023",
+    "10286": "Workflow Standard2023",
+    "10000": "Software Simplified Workflow for Project UNIFIED",
+    "10001": "Workflow Standard2023",
+    "10122": "Work Item Workflow",
+    "10100": "Software Simplified Workflow for Project UNIFIED",
+    "10136": "Software Simplified Workflow for Project UNIFIED",
+    "10105": "Work Item Workflow",
+    "10104": "Design Task Workflow"
+  },
+  "self": "https://openvpn.atlassian.net/rest/api/3/workflowscheme/11356"
+}

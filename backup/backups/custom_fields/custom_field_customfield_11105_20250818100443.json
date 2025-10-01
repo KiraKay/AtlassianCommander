@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11105",
+  "key": "customfield_11105",
+  "name": "TC created?",
+  "untranslatedName": "TC created?",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11105]",
+    "TC created?",
+    "TC created?[Dropdown]"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11105
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11045",
+  "key": "customfield_11045",
+  "name": "End Time GMT",
+  "untranslatedName": "End Time GMT",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "End Time GMT[Time stamp]",
+    "cf[11045]",
+    "End Time GMT"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11129"
+    }
+  },
+  "schema": {
+    "type": "datetime",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datetime",
+    "customId": 11045
+  }
+}

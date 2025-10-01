@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11393",
+  "key": "customfield_11393",
+  "name": "Confidence",
+  "untranslatedName": "Confidence",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11393]",
+    "Confidence",
+    "Confidence[Slider]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11476"
+    }
+  },
+  "schema": {
+    "type": "number",
+    "custom": "jira.polaris:slider",
+    "customId": 11393
+  }
+}

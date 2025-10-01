@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11080",
+  "key": "customfield_11080",
+  "name": "Test plan",
+  "untranslatedName": "Test plan",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11080]",
+    "Test plan",
+    "Test plan[Paragraph]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "customId": 11080
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11181",
+  "key": "customfield_11181",
+  "name": "Application Name",
+  "untranslatedName": "Application Name",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Application Name[Short text]",
+    "Application Name",
+    "cf[11181]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "customId": 11181
+  }
+}

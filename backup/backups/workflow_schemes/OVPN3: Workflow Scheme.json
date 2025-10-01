@@ -1,0 +1,8 @@
+{
+  "id": 11348,
+  "name": "OVPN3: Workflow Scheme",
+  "description": "Only for OVPN3 project. Do not reuse for any other purposes.",
+  "defaultWorkflow": "Workflow Standard2023, customized for Core team",
+  "issueTypeMappings": {},
+  "self": "https://openvpn.atlassian.net/rest/api/3/workflowscheme/11348"
+}

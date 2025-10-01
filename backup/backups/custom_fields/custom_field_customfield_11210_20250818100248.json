@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11210",
+  "key": "customfield_11210",
+  "name": "subpriority",
+  "untranslatedName": "subpriority",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "subpriority[Dropdown]",
+    "cf[11210]",
+    "subpriority"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11210
+  }
+}

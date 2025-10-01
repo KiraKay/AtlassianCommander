@@ -1,0 +1,21 @@
+{
+  "id": "customfield_10002",
+  "key": "customfield_10002",
+  "name": "Flagged",
+  "untranslatedName": "Flagged",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[10002]",
+    "Flagged",
+    "Flagged[Checkboxes]"
+  ],
+  "schema": {
+    "type": "array",
+    "items": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "customId": 10002
+  }
+}

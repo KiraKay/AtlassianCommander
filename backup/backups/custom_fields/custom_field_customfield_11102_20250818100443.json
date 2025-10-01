@@ -1,0 +1,30 @@
+{
+  "id": "customfield_11102",
+  "key": "customfield_11102",
+  "name": "Participant",
+  "untranslatedName": "Participant",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11102]",
+    "Participant",
+    "Participant[People]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11155"
+    }
+  },
+  "schema": {
+    "type": "array",
+    "items": "user",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:people",
+    "customId": 11102,
+    "configuration": {
+      "isMulti": true
+    }
+  }
+}

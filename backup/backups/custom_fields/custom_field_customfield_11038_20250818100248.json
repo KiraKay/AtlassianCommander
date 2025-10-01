@@ -1,0 +1,21 @@
+{
+  "id": "customfield_11038",
+  "key": "customfield_11038",
+  "name": "Reviewer(s)",
+  "untranslatedName": "Reviewer(s)",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Reviewer(s)[User Picker (multiple users)]",
+    "cf[11038]",
+    "Reviewer(s)"
+  ],
+  "schema": {
+    "type": "array",
+    "items": "user",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiuserpicker",
+    "customId": 11038
+  }
+}

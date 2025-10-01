@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11051",
+  "key": "customfield_11051",
+  "name": "Program Increment",
+  "untranslatedName": "Program Increment",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Program Increment[Short text]",
+    "cf[11051]",
+    "Program Increment"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "customId": 11051
+  }
+}

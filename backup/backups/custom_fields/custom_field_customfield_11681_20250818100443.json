@@ -1,0 +1,27 @@
+{
+  "id": "customfield_11681",
+  "key": "customfield_11681",
+  "name": "Bug Not Reported Previously",
+  "untranslatedName": "Bug Not Reported Previously",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Bug Not Reported Previously",
+    "Bug Not Reported Previously[Checkboxes]",
+    "cf[11681]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11707"
+    }
+  },
+  "schema": {
+    "type": "array",
+    "items": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "customId": 11681
+  }
+}

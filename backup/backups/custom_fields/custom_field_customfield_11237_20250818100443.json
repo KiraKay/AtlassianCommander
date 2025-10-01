@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11237",
+  "key": "customfield_11237",
+  "name": "Effort-NotInUse",
+  "untranslatedName": "Effort-NotInUse",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11237]",
+    "Effort-NotInUse",
+    "Effort-NotInUse[Rating]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11245"
+    }
+  },
+  "schema": {
+    "type": "number",
+    "custom": "jira.polaris:rating",
+    "customId": 11237
+  }
+}

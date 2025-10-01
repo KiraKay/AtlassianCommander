@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11677",
+  "key": "customfield_11677",
+  "name": "Minimal Reproduction",
+  "untranslatedName": "Minimal Reproduction",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11677]",
+    "Minimal Reproduction",
+    "Minimal Reproduction[Paragraph]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11707"
+    }
+  },
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "customId": 11677
+  }
+}

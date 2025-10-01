@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11614",
+  "key": "customfield_11614",
+  "name": "QA estimate",
+  "untranslatedName": "QA estimate",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11614]",
+    "QA estimate",
+    "QA estimate[Number]"
+  ],
+  "schema": {
+    "type": "number",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "customId": 11614
+  }
+}

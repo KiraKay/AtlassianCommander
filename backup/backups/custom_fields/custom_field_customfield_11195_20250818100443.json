@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11195",
+  "key": "customfield_11195",
+  "name": "Problem",
+  "untranslatedName": "Problem",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11195]",
+    "Problem",
+    "Problem[Paragraph]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11181"
+    }
+  },
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "customId": 11195
+  }
+}

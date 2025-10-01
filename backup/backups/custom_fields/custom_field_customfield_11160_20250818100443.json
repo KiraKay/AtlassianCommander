@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11160",
+  "key": "customfield_11160",
+  "name": "Preferred Release Date",
+  "untranslatedName": "Preferred Release Date",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11160]",
+    "Preferred Release Date",
+    "Preferred Release Date[Date]"
+  ],
+  "schema": {
+    "type": "date",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "customId": 11160
+  }
+}

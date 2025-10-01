@@ -1,0 +1,25 @@
+{
+  "id": "customfield_11235",
+  "key": "customfield_11235",
+  "name": "Category",
+  "untranslatedName": "Category",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Category[Dropdown]",
+    "cf[11235]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11245"
+    }
+  },
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11235
+  }
+}

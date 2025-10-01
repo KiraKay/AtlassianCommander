@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11170",
+  "key": "customfield_11170",
+  "name": "FreeIPA groups",
+  "untranslatedName": "FreeIPA groups",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "FreeIPA groups[Short text]",
+    "FreeIPA groups",
+    "cf[11170]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "customId": 11170
+  }
+}

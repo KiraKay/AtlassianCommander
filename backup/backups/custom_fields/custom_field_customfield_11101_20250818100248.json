@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11101",
+  "key": "customfield_11101",
+  "name": "Components *",
+  "untranslatedName": "Components *",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Components *[Dropdown]",
+    "cf[11101]",
+    "Components *"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11169"
+    }
+  },
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11101
+  }
+}

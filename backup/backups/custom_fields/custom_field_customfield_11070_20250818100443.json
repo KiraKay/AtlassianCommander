@@ -1,0 +1,21 @@
+{
+  "id": "customfield_11070",
+  "key": "customfield_11070",
+  "name": "Approver groups",
+  "untranslatedName": "Approver groups",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Approver groups",
+    "Approver groups[Group Picker (multiple groups)]",
+    "cf[11070]"
+  ],
+  "schema": {
+    "type": "array",
+    "items": "group",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multigrouppicker",
+    "customId": 11070
+  }
+}

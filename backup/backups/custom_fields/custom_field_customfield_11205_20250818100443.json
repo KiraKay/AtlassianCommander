@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11205",
+  "key": "customfield_11205",
+  "name": "Environment for NonPROD",
+  "untranslatedName": "Environment for NonPROD",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11205]",
+    "Environment for NonPROD",
+    "Environment for NonPROD[Dropdown]"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11205
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 11285,
+  "name": "Jira Service Management IT Support Workflow Scheme generated for Project HELP",
+  "description": "This Jira Service Management IT Support Workflow Scheme was generated for Project HELP",
+  "defaultWorkflow": "Copy of HELP: Jira Service Management default workflow",
+  "issueTypeMappings": {
+    "10185": "New HELP: Service Request Fulfilment workflow",
+    "10184": "HELP: Incident Management workflow for Jira Service Management",
+    "10208": "HELP: JSM Offboarding workflow",
+    "3": "HELP: Jira Service Management default workflow",
+    "5": "HELP: Jira Service Management default workflow",
+    "10209": "HELP: JSM Onboarding workflow",
+    "10187": "HELP: Change Management workflow for Jira Service Management",
+    "10363": "New HELP: Service Request Fulfilment workflow",
+    "10186": "HELP: Service Request Fulfilment with Approvals workflow for Jira Service Management v2",
+    "10188": "HELP: Problem Management workflow for Jira Service Management",
+    "10334": "HELP Service Request Integrations Workflow Approval Required"
+  },
+  "self": "https://openvpn.atlassian.net/rest/api/3/workflowscheme/11285"
+}

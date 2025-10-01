@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11171",
+  "key": "customfield_11171",
+  "name": "Time to done",
+  "untranslatedName": "Time to done",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Time to done",
+    "cf[11171]"
+  ],
+  "schema": {
+    "type": "sd-servicelevelagreement",
+    "custom": "com.atlassian.servicedesk:sd-sla-field",
+    "customId": 11171
+  }
+}

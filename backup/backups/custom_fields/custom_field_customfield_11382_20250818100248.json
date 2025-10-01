@@ -1,0 +1,27 @@
+{
+  "id": "customfield_11382",
+  "key": "customfield_11382",
+  "name": "Delivery Teams",
+  "untranslatedName": "Delivery Teams",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Delivery Teams[Checkboxes]",
+    "Delivery Teams",
+    "cf[11382]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11476"
+    }
+  },
+  "schema": {
+    "type": "array",
+    "items": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "customId": 11382
+  }
+}

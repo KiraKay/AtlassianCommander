@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11239",
+  "key": "customfield_11239",
+  "name": "Confidence-NotInUse",
+  "untranslatedName": "Confidence-NotInUse",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11239]",
+    "Confidence-NotInUse[Slider]",
+    "Confidence-NotInUse"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11245"
+    }
+  },
+  "schema": {
+    "type": "number",
+    "custom": "jira.polaris:slider",
+    "customId": 11239
+  }
+}

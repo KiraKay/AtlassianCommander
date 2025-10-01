@@ -1,0 +1,402 @@
+[
+  {
+    "id": "1",
+    "name": "Default Screen"
+  },
+  {
+    "id": "2",
+    "name": "Workflow Screen"
+  },
+  {
+    "id": "3",
+    "name": "Resolve Issue Screen"
+  },
+  {
+    "id": "10000",
+    "name": "PTPLAT: Software Development Default Issue Screen"
+  },
+  {
+    "id": "10001",
+    "name": "PTPLAT: Software Development Bug Screen"
+  },
+  {
+    "id": "10002",
+    "name": "PTPLAT: Software Development Resolve Issue Screen"
+  },
+  {
+    "id": "10100",
+    "name": "PTWS: Software Development Default Issue Screen"
+  },
+  {
+    "id": "10101",
+    "name": "PTWS: Software Development Bug Screen"
+  },
+  {
+    "id": "10102",
+    "name": "PTWS: Software Development Resolve Issue Screen"
+  },
+  {
+    "id": "10200",
+    "name": "OC: Simple Issue Tracking Create Issue Screen"
+  },
+  {
+    "id": "10201",
+    "name": "OC: Simple Issue Tracking Edit/View Issue Screen"
+  },
+  {
+    "id": "10202",
+    "name": "OC: Simple Issue Tracking Resolve Issue Screen"
+  },
+  {
+    "id": "10300",
+    "name": "Workflow Screen - 2"
+  },
+  {
+    "id": "10400",
+    "name": "Workflow Screen - 3"
+  },
+  {
+    "id": "10500",
+    "name": "Workflow Screen - 4"
+  },
+  {
+    "id": "10501",
+    "name": "Workflow Screen - 5"
+  },
+  {
+    "id": "10600",
+    "name": "UNIFIED: Kanban Default Issue Screen"
+  },
+  {
+    "id": "10601",
+    "name": "UNIFIED: Kanban Bug Screen"
+  },
+  {
+    "id": "10700",
+    "name": "OW: Kanban Default Issue Screen"
+  },
+  {
+    "id": "10701",
+    "name": "OW: Kanban Bug Screen"
+  },
+  {
+    "id": "10800",
+    "name": "OVPN3: Kanban Default Issue Screen"
+  },
+  {
+    "id": "10801",
+    "name": "OVPN3: Kanban Bug Screen"
+  },
+  {
+    "id": "10900",
+    "name": "MISC: Kanban Default Issue Screen"
+  },
+  {
+    "id": "10901",
+    "name": "MISC: Kanban Bug Screen"
+  },
+  {
+    "id": "11000",
+    "name": "PG: Software Development Default Issue Screen"
+  },
+  {
+    "id": "11001",
+    "name": "PG: Software Development Bug Screen"
+  },
+  {
+    "id": "11002",
+    "name": "OA: Kanban Default Issue Screen"
+  },
+  {
+    "id": "11003",
+    "name": "OA: Kanban Bug Screen"
+  },
+  {
+    "id": "11004",
+    "name": "OI: Kanban Default Issue Screen"
+  },
+  {
+    "id": "11005",
+    "name": "OI: Kanban Bug Screen"
+  },
+  {
+    "id": "11006",
+    "name": "OU: Scrum Default Issue Screen"
+  },
+  {
+    "id": "11007",
+    "name": "OU: Scrum Bug Screen"
+  },
+  {
+    "id": "11008",
+    "name": "OL: Kanban Default Issue Screen"
+  },
+  {
+    "id": "11009",
+    "name": "OL: Kanban Bug Screen"
+  },
+  {
+    "id": "11010",
+    "name": "OU: Kanban Default Issue Screen"
+  },
+  {
+    "id": "11011",
+    "name": "OU: Kanban Bug Screen"
+  },
+  {
+    "id": "11012",
+    "name": "UNIFIED: Kanban Test Screen"
+  },
+  {
+    "id": "11013",
+    "name": "ASBILLING: Kanban Default Issue Screen"
+  },
+  {
+    "id": "11014",
+    "name": "ASBILLING: Kanban Bug Screen"
+  },
+  {
+    "id": "11015",
+    "name": "PM: Simple Issue Tracking Resolve Issue Screen"
+  },
+  {
+    "id": "11016",
+    "name": "PTSUP: Task Management Create Issue Screen"
+  },
+  {
+    "id": "11017",
+    "name": "PTSUP: Task Management Edit/View Issue Screen"
+  },
+  {
+    "id": "11018",
+    "name": "OR: Scrum Default Issue Screen"
+  },
+  {
+    "id": "11019",
+    "name": "OR: Scrum Bug Screen"
+  },
+  {
+    "id": "11020",
+    "name": "OT: Kanban Default Issue Screen"
+  },
+  {
+    "id": "11021",
+    "name": "OT: Kanban Bug Screen"
+  },
+  {
+    "id": "11024",
+    "name": "CGRID: Scrum Default Issue Screen"
+  },
+  {
+    "id": "11025",
+    "name": "CGRID: Scrum Bug Screen"
+  },
+  {
+    "id": "11026",
+    "name": "PM: Simple Issue Tracking Resolve Issue Screen - 2"
+  },
+  {
+    "id": "11027",
+    "name": "SEC: Task Management Create Issue Screen"
+  },
+  {
+    "id": "11028",
+    "name": "SEC: Task Management Edit/View Issue Screen"
+  },
+  {
+    "id": "11029",
+    "name": "SEC: Kanban Default Issue Screen"
+  },
+  {
+    "id": "11030",
+    "name": "SEC: Kanban Bug Screen"
+  },
+  {
+    "id": "11031",
+    "name": "EC: Simple Default Issue Screen"
+  },
+  {
+    "id": "11032",
+    "name": "EC-10102"
+  },
+  {
+    "id": "11033",
+    "name": "EC-10103"
+  },
+  {
+    "id": "11034",
+    "name": "BI: Kanban Default Issue Screen"
+  },
+  {
+    "id": "11035",
+    "name": "BI: Kanban Bug Screen"
+  },
+  {
+    "id": "11036",
+    "name": "PTW: Simple Default Issue Screen"
+  },
+  {
+    "id": "11037",
+    "name": "PTW-10106"
+  },
+  {
+    "id": "11038",
+    "name": "PTW-10107"
+  },
+  {
+    "id": "11040",
+    "name": "CP: Kanban Default Issue Screen"
+  },
+  {
+    "id": "11041",
+    "name": "CP: Kanban Bug Screen"
+  },
+  {
+    "id": "11042",
+    "name": "MAR: Kanban Default Issue Screen"
+  },
+  {
+    "id": "11043",
+    "name": "MAR: Kanban Bug Screen"
+  },
+  {
+    "id": "11044",
+    "name": "PR: Kanban Default Issue Screen"
+  },
+  {
+    "id": "11045",
+    "name": "PR: Kanban Bug Screen"
+  },
+  {
+    "id": "11047",
+    "name": "SALES: Kanban Default Issue Screen"
+  },
+  {
+    "id": "11048",
+    "name": "SALES: Kanban Bug Screen"
+  },
+  {
+    "id": "11049",
+    "name": "DO: Simple Default Issue Screen"
+  },
+  {
+    "id": "11052",
+    "name": "PTO: Simple Default Issue Screen"
+  },
+  {
+    "id": "11056",
+    "name": "CYSHIELD: Kanban Default Issue Screen"
+  },
+  {
+    "id": "11057",
+    "name": "CYSHIELD: Kanban Bug Screen"
+  },
+  {
+    "id": "11058",
+    "name": "CYSHIELD: Kanban Default Issue Screen (1)"
+  },
+  {
+    "id": "11059",
+    "name": "CYSHIELD: Kanban Bug Screen (1)"
+  },
+  {
+    "id": "11061",
+    "name": "CBILLING: Kanban Default Issue Screen"
+  },
+  {
+    "id": "11062",
+    "name": "CBILLING: Kanban Bug Screen"
+  },
+  {
+    "id": "11063",
+    "name": "DESIGN: Simple Default Issue Screen"
+  },
+  {
+    "id": "11065",
+    "name": "AUTO: Scrum Default Issue Screen"
+  },
+  {
+    "id": "11066",
+    "name": "AUTO: Scrum Bug Screen"
+  },
+  {
+    "id": "11067",
+    "name": "VULREP: Kanban Default Issue Screen"
+  },
+  {
+    "id": "11068",
+    "name": "VULREP: Kanban Bug Screen"
+  },
+  {
+    "id": "11071",
+    "name": "UKR: Kanban Default Issue Screen"
+  },
+  {
+    "id": "11072",
+    "name": "UKR: Kanban Bug Screen"
+  },
+  {
+    "id": "11073",
+    "name": "WEB2: Kanban Default Issue Screen"
+  },
+  {
+    "id": "11074",
+    "name": "WEB2: Kanban Bug Screen"
+  },
+  {
+    "id": "11075",
+    "name": "CRETRO: Simple Default Issue Screen"
+  },
+  {
+    "id": "11076",
+    "name": "HR: Simple Default Issue Screen"
+  },
+  {
+    "id": "11077",
+    "name": "SR: Simple Default Issue Screen"
+  },
+  {
+    "id": "11078",
+    "name": "TD: Simple Default Issue Screen"
+  },
+  {
+    "id": "11080",
+    "name": "PGMTOPS: Simple Default Issue Screen"
+  },
+  {
+    "id": "11081",
+    "name": "SUR: Simple Default Issue Screen"
+  },
+  {
+    "id": "11082",
+    "name": "SUR-10175"
+  },
+  {
+    "id": "11083",
+    "name": "SUR-10176"
+  },
+  {
+    "id": "11084",
+    "name": "SUR-10177"
+  },
+  {
+    "id": "11085",
+    "name": "SUR-10178"
+  },
+  {
+    "id": "11086",
+    "name": "SUR-10179"
+  },
+  {
+    "id": "11087",
+    "name": "RM: Kanban Default Issue Screen"
+  },
+  {
+    "id": "11088",
+    "name": "RM: Kanban Bug Screen"
+  },
+  {
+    "id": "11089",
+    "name": "UR: Simple Default Issue Screen"
+  }
+]

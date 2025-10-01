@@ -1,0 +1,9 @@
+{
+  "name": "POPS Workflow",
+  "description": "Workflow for the POPS project",
+  "lastModifiedDate": "07/Mar/25 7:17 AM",
+  "lastModifiedUser": "Alex John",
+  "lastModifiedUserAccountId": "627e41bb0e2c49006904e219",
+  "steps": 10,
+  "default": false
+}

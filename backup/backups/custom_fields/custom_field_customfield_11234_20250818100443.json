@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11234",
+  "key": "customfield_11234",
+  "name": "Project target",
+  "untranslatedName": "Project target",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11234]",
+    "Project target",
+    "Project target[Interval]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11245"
+    }
+  },
+  "schema": {
+    "type": "string",
+    "custom": "jira.polaris:interval",
+    "customId": 11234
+  }
+}

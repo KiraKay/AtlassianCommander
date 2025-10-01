@@ -1,0 +1,20 @@
+{
+  "id": "customfield_10004",
+  "key": "customfield_10004",
+  "name": "Story Points",
+  "untranslatedName": "Story Points",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[10004]",
+    "Story Points",
+    "Story Points[Number]"
+  ],
+  "schema": {
+    "type": "number",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "customId": 10004
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": 11286,
+  "name": "AT: Task Management Workflow Scheme",
+  "description": "",
+  "defaultWorkflow": "AT: Task Management Workflow",
+  "issueTypeMappings": {},
+  "self": "https://openvpn.atlassian.net/rest/api/3/workflowscheme/11286"
+}

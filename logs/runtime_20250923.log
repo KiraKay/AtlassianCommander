@@ -1,0 +1,13 @@
+[13:58:47] Threaded task error: 'str' object has no attribute 'get'
+[13:59:45] Threaded task error: 'str' object has no attribute 'get'
+[14:02:33] Threaded task error: '_tkinter.tkapp' object has no attribute 'update_status_and_pump'
+[14:04:29] Threaded task error: '_tkinter.tkapp' object has no attribute 'update_status_and_pump'
+[14:07:03] Threaded task error: '_tkinter.tkapp' object has no attribute 'update_status_and_pump'
+[14:10:20] Threaded task error: 'str' object has no attribute 'get'
+[14:14:36] Threaded task error: 'str' object has no attribute 'get'
+[14:34:57] Threaded task error: 'str' object has no attribute 'get'
+[14:42:30] Threaded task error: 'str' object has no attribute 'get'
+[14:44:25] Threaded task error: 'str' object has no attribute 'get'
+[15:08:21] Threaded task error: 'str' object has no attribute 'get'
+[15:13:39] Threaded task error: 'str' object has no attribute 'get'
+[15:26:16] Threaded task error: 'module' object is not iterable

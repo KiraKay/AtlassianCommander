@@ -1,0 +1,20 @@
+{
+  "id": "customfield_10500",
+  "key": "customfield_10500",
+  "name": "Approvals",
+  "untranslatedName": "Approvals",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Approvals",
+    "Approvals[Approvals]",
+    "cf[10500]"
+  ],
+  "schema": {
+    "type": "sd-approvals",
+    "custom": "com.atlassian.servicedesk.approvals-plugin:sd-approvals",
+    "customId": 10500
+  }
+}

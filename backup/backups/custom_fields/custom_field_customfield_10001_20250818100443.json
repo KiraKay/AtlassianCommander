@@ -1,0 +1,20 @@
+d{
+  "id": "customfield_10001",
+  "key": "customfield_10001",
+  "name": "[CHART] Date of First Response",
+  "untranslatedName": "[CHART] Date of First Response",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "[CHART] Date of First Response",
+    "[CHART] Date of First Response[Date of first response]",
+    "cf[10001]"
+  ],
+  "schema": {
+    "type": "datetime",
+    "custom": "com.atlassian.jira.ext.charting:firstresponsedate",
+    "customId": 10001
+  }
+}

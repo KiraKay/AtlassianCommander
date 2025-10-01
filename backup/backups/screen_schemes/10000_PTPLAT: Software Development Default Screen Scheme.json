@@ -1,0 +1,15 @@
+{
+  "id": "10000",
+  "name": "PTPLAT: Software Development Default Screen Scheme",
+  "original_list_object": {
+    "id": 10000,
+    "name": "PTPLAT: Software Development Default Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 1
+    }
+  },
+  "detail": null,
+  "issueTypeScreenMappings": [],
+  "backup_timestamp": "2025-08-19T10:57:14"
+}

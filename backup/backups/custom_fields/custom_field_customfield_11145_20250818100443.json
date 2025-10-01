@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11145",
+  "key": "customfield_11145",
+  "name": "Personal Email",
+  "untranslatedName": "Personal Email",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11145]",
+    "Personal Email",
+    "Personal Email[Short text]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "customId": 11145
+  }
+}

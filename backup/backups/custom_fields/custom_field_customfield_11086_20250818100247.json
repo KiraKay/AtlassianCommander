@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11086",
+  "key": "customfield_11086",
+  "name": "Root cause",
+  "untranslatedName": "Root cause",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Root cause[Paragraph]",
+    "Root cause",
+    "cf[11086]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "customId": 11086
+  }
+}

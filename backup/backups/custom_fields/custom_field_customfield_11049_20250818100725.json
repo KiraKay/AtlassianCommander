@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11049",
+  "key": "customfield_11049",
+  "name": "Satisfaction",
+  "untranslatedName": "Satisfaction",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11049]",
+    "Satisfaction"
+  ],
+  "schema": {
+    "type": "sd-feedback",
+    "custom": "com.atlassian.servicedesk:sd-request-feedback",
+    "customId": 11049
+  }
+}

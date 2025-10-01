@@ -1,0 +1,11 @@
+{
+  "id": "customfield_10677",
+  "name": "kimkim2",
+  "schema": {
+    "type": "date",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "customId": 10677
+  },
+  "typeDisplayName": "Date Picker",
+  "description": ""
+}

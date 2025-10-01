@@ -1,0 +1,21 @@
+{
+  "id": "customfield_10024",
+  "key": "customfield_10024",
+  "name": "Release Version History",
+  "untranslatedName": "Release Version History",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[10024]",
+    "Release Version History",
+    "Release Version History[Version Picker (multiple versions)]"
+  ],
+  "schema": {
+    "type": "array",
+    "items": "version",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiversion",
+    "customId": 10024
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "customfield_11412",
+  "key": "customfield_11412",
+  "name": "Implementer",
+  "untranslatedName": "Implementer",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11412]",
+    "Implementer",
+    "Implementer[User Picker (multiple users)]"
+  ],
+  "schema": {
+    "type": "array",
+    "items": "user",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiuserpicker",
+    "customId": 11412
+  }
+}

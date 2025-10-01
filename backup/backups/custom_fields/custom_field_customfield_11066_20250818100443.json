@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11066",
+  "key": "customfield_11066",
+  "name": "Pending reason",
+  "untranslatedName": "Pending reason",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11066]",
+    "Pending reason",
+    "Pending reason[Dropdown]"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11066
+  }
+}

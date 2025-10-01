@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11065",
+  "key": "customfield_11065",
+  "name": "Impact",
+  "untranslatedName": "Impact",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11065]",
+    "Impact",
+    "Impact[Dropdown]"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11065
+  }
+}

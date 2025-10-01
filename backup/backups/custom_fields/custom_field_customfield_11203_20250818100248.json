@@ -1,0 +1,21 @@
+{
+  "id": "customfield_11203",
+  "key": "customfield_11203",
+  "name": "Authorized Members",
+  "untranslatedName": "Authorized Members",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11203]",
+    "Authorized Members[User Picker (multiple users)]",
+    "Authorized Members"
+  ],
+  "schema": {
+    "type": "array",
+    "items": "user",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiuserpicker",
+    "customId": 11203
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "customfield_11156",
+  "key": "customfield_11156",
+  "name": "Allowed members to comment on off-boarding tickets",
+  "untranslatedName": "Allowed members to comment on off-boarding tickets",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Allowed members to comment on off-boarding tickets",
+    "Allowed members to comment on off-boarding tickets[User Picker (multiple users)]",
+    "cf[11156]"
+  ],
+  "schema": {
+    "type": "array",
+    "items": "user",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiuserpicker",
+    "customId": 11156
+  }
+}

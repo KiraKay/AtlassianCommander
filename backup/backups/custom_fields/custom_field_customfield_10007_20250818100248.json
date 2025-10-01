@@ -1,0 +1,20 @@
+{
+  "id": "customfield_10007",
+  "key": "customfield_10007",
+  "name": "Sprint",
+  "untranslatedName": "Sprint",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[10007]",
+    "Sprint"
+  ],
+  "schema": {
+    "type": "array",
+    "items": "json",
+    "custom": "com.pyxis.greenhopper.jira:gh-sprint",
+    "customId": 10007
+  }
+}

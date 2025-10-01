@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11042",
+  "key": "customfield_11042",
+  "name": "Issue color",
+  "untranslatedName": "Issue color",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11042]",
+    "Issue color"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.pyxis.greenhopper.jira:jsw-issue-color",
+    "customId": 11042
+  }
+}

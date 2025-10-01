@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11032",
+  "key": "customfield_11032",
+  "name": "QA Assignee",
+  "untranslatedName": "QA Assignee",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "QA Assignee",
+    "QA Assignee[User Picker (single user)]",
+    "cf[11032]"
+  ],
+  "schema": {
+    "type": "user",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:userpicker",
+    "customId": 11032
+  }
+}

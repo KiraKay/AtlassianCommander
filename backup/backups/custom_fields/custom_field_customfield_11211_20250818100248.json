@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11211",
+  "key": "customfield_11211",
+  "name": "Description for Opensearch alert request",
+  "untranslatedName": "Description for Opensearch alert request",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Description for Opensearch alert request[Paragraph]",
+    "Description for Opensearch alert request",
+    "cf[11211]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "customId": 11211
+  }
+}

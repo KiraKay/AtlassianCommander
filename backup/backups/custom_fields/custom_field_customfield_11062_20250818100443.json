@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11062",
+  "key": "customfield_11062",
+  "name": "Satisfaction date",
+  "untranslatedName": "Satisfaction date",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11062]",
+    "Satisfaction date"
+  ],
+  "schema": {
+    "type": "datetime",
+    "custom": "com.atlassian.servicedesk:sd-request-feedback-date",
+    "customId": 11062
+  }
+}

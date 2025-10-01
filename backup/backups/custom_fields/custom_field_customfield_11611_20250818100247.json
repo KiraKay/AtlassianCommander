@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11611",
+  "key": "customfield_11611",
+  "name": "PM estimate",
+  "untranslatedName": "PM estimate",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11611]",
+    "PM estimate[Number]",
+    "PM estimate"
+  ],
+  "schema": {
+    "type": "number",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "customId": 11611
+  }
+}

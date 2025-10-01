@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11247",
+  "key": "customfield_11247",
+  "name": "Score",
+  "untranslatedName": "Score",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11247]",
+    "Score",
+    "Score[Custom formula]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11245"
+    }
+  },
+  "schema": {
+    "type": "number",
+    "custom": "jira.polaris:formula",
+    "customId": 11247
+  }
+}

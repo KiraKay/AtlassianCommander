@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11207",
+  "key": "customfield_11207",
+  "name": "Environment for Alert request",
+  "untranslatedName": "Environment for Alert request",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11207]",
+    "Environment for Alert request",
+    "Environment for Alert request[Dropdown]"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11207
+  }
+}

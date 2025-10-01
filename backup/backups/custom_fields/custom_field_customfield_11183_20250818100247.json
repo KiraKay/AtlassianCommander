@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11183",
+  "key": "customfield_11183",
+  "name": "ACS URL",
+  "untranslatedName": "ACS URL",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11183]",
+    "ACS URL[URL Field]",
+    "ACS URL"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:url",
+    "customId": 11183
+  }
+}

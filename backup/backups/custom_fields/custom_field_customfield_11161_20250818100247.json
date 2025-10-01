@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11161",
+  "key": "customfield_11161",
+  "name": "Current Production URL",
+  "untranslatedName": "Current Production URL",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Current Production URL[URL Field]",
+    "cf[11161]",
+    "Current Production URL"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:url",
+    "customId": 11161
+  }
+}

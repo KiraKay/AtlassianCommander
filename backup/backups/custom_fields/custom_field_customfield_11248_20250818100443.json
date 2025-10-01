@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11248",
+  "key": "customfield_11248",
+  "name": "ConfidenceCC",
+  "untranslatedName": "ConfidenceCC",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11248]",
+    "ConfidenceCC",
+    "ConfidenceCC[Dropdown]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11245"
+    }
+  },
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11248
+  }
+}

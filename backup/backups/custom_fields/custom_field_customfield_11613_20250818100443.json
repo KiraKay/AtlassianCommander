@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11613",
+  "key": "customfield_11613",
+  "name": "BE estimate",
+  "untranslatedName": "BE estimate",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "BE estimate",
+    "BE estimate[Number]",
+    "cf[11613]"
+  ],
+  "schema": {
+    "type": "number",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "customId": 11613
+  }
+}

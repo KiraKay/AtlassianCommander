@@ -1,0 +1,27 @@
+{
+  "id": "customfield_11380",
+  "key": "customfield_11380",
+  "name": "Theme",
+  "untranslatedName": "Theme",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11380]",
+    "Theme",
+    "Theme[Checkboxes]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11476"
+    }
+  },
+  "schema": {
+    "type": "array",
+    "items": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "customId": 11380
+  }
+}

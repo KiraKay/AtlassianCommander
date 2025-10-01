@@ -1,0 +1,21 @@
+{
+  "id": "customfield_11192",
+  "key": "customfield_11192",
+  "name": "Product",
+  "untranslatedName": "Product",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Product",
+    "Product[Checkboxes]",
+    "cf[11192]"
+  ],
+  "schema": {
+    "type": "array",
+    "items": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "customId": 11192
+  }
+}

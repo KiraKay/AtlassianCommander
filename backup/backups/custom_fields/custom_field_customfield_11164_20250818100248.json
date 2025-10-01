@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11164",
+  "key": "customfield_11164",
+  "name": "Termination Source",
+  "untranslatedName": "Termination Source",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Termination Source[Dropdown]",
+    "Termination Source",
+    "cf[11164]"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11164
+  }
+}

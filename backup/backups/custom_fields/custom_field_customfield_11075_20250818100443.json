@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11075",
+  "key": "customfield_11075",
+  "name": "Change type",
+  "untranslatedName": "Change type",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11075]",
+    "Change type",
+    "Change type[Dropdown]"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11075
+  }
+}

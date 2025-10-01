@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11113",
+  "key": "customfield_11113",
+  "name": "Total forms",
+  "untranslatedName": "Total forms",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11113]",
+    "Total forms"
+  ],
+  "schema": {
+    "type": "number",
+    "custom": "com.atlassian.jira.plugins.proforma-managed-fields:forms-total-field-cftype",
+    "customId": 11113
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11545",
+  "key": "customfield_11545",
+  "name": "ImpactCC",
+  "untranslatedName": "ImpactCC",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11545]",
+    "ImpactCC[Dropdown]",
+    "ImpactCC"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11245"
+    }
+  },
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11545
+  }
+}

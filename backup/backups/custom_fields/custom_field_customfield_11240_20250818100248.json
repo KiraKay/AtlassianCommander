@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11240",
+  "key": "customfield_11240",
+  "name": "Documents",
+  "untranslatedName": "Documents",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11240]",
+    "Documents[URL Field]",
+    "Documents"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11245"
+    }
+  },
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:url",
+    "customId": 11240
+  }
+}

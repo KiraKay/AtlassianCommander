@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11379",
+  "key": "customfield_11379",
+  "name": "Impact",
+  "untranslatedName": "Impact",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Impact",
+    "cf[11379]",
+    "Impact[Rating]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11476"
+    }
+  },
+  "schema": {
+    "type": "number",
+    "custom": "jira.polaris:rating",
+    "customId": 11379
+  }
+}

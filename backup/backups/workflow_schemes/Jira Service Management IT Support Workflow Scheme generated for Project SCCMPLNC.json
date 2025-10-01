@@ -1,0 +1,12 @@
+{
+  "id": 11376,
+  "name": "Jira Service Management IT Support Workflow Scheme generated for Project SCCMPLNC",
+  "description": "This Jira Service Management IT Support Workflow Scheme was generated for Project SCCMPLNC",
+  "defaultWorkflow": "SCCMPLNC: Jira Service Management default workflow",
+  "issueTypeMappings": {
+    "1": "SCCMPLNC: Jira Service Management default workflow",
+    "2": "SCCMPLNC: Jira Service Management default workflow",
+    "10353": "SCCMPLNC: Service Request Fulfilment workflow for Jira Service Management"
+  },
+  "self": "https://openvpn.atlassian.net/rest/api/3/workflowscheme/11376"
+}

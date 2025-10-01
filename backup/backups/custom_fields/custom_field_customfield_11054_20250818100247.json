@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11054",
+  "key": "customfield_11054",
+  "name": "Target start",
+  "untranslatedName": "Target start",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Target start",
+    "cf[11054]"
+  ],
+  "schema": {
+    "type": "date",
+    "custom": "com.atlassian.jpo:jpo-custom-field-baseline-start",
+    "customId": 11054
+  }
+}

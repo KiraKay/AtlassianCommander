@@ -1,0 +1,8 @@
+{
+  "id": 11329,
+  "name": "Copy of SOC2: Project Management Workflow Scheme",
+  "description": "",
+  "defaultWorkflow": "Copy of SOC2: Project Management Workflow",
+  "issueTypeMappings": {},
+  "self": "https://openvpn.atlassian.net/rest/api/3/workflowscheme/11329"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11391",
+  "key": "customfield_11391",
+  "name": "Effort",
+  "untranslatedName": "Effort",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11391]",
+    "Effort",
+    "Effort[Rating]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11476"
+    }
+  },
+  "schema": {
+    "type": "number",
+    "custom": "jira.polaris:rating",
+    "customId": 11391
+  }
+}

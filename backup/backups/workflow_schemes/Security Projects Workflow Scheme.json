@@ -1,0 +1,14 @@
+{
+  "id": 11340,
+  "name": "Security Projects Workflow Scheme",
+  "description": "Workflow for Security (SEC) Projects",
+  "defaultWorkflow": "Security Project Workflow",
+  "issueTypeMappings": {
+    "3": "Security Project Workflow",
+    "5": "Security Project Workflow",
+    "10000": "Security Project Workflow",
+    "10263": "Security Project Workflow",
+    "10169": "Security Project Workflow"
+  },
+  "self": "https://openvpn.atlassian.net/rest/api/3/workflowscheme/11340"
+}

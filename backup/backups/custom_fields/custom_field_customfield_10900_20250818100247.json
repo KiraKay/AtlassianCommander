@@ -1,0 +1,20 @@
+{
+  "id": "customfield_10900",
+  "key": "customfield_10900",
+  "name": "Organizations",
+  "untranslatedName": "Organizations",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[10900]",
+    "Organizations"
+  ],
+  "schema": {
+    "type": "array",
+    "items": "sd-customerorganization",
+    "custom": "com.atlassian.servicedesk:sd-customer-organizations",
+    "customId": 10900
+  }
+}

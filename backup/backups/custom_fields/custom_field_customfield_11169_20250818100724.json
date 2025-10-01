@@ -1,0 +1,21 @@
+{
+  "id": "customfield_11169",
+  "key": "customfield_11169",
+  "name": "Mirror JIRA/Confluence permissions from",
+  "untranslatedName": "Mirror JIRA/Confluence permissions from",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11169]",
+    "Mirror JIRA/Confluence permissions from",
+    "Mirror JIRA/Confluence permissions from[User Picker (multiple users)]"
+  ],
+  "schema": {
+    "type": "array",
+    "items": "user",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiuserpicker",
+    "customId": 11169
+  }
+}

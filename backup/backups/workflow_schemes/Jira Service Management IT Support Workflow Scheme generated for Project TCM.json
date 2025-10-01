@@ -1,0 +1,17 @@
+{
+  "id": 11289,
+  "name": "Jira Service Management IT Support Workflow Scheme generated for Project TCM",
+  "description": "This Jira Service Management IT Support Workflow Scheme was generated for Project TCM",
+  "defaultWorkflow": "jira",
+  "issueTypeMappings": {
+    "3": "TCM: Jira Service Management default workflow",
+    "5": "TCM: Jira Service Management default workflow",
+    "10185": "TCM: Service Request Fulfilment workflow for Jira Service Management",
+    "10184": "TCM: Incident Management workflow for Jira Service Management",
+    "10195": "TCM: Post-Incident Review workflow for Jira Service Management",
+    "10187": "TCM: Change Management workflow for Jira Service Management",
+    "10186": "TCM: Service Request Fulfilment with Approvals workflow for Jira Service Management",
+    "10188": "TCM: Problem Management workflow for Jira Service Management"
+  },
+  "self": "https://openvpn.atlassian.net/rest/api/3/workflowscheme/11289"
+}

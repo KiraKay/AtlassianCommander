@@ -1,0 +1,6 @@
+[09:27:31] API error for /rest/api/3/field/customfield_10610: 'BackupManager' object has no attribute '_normalize_url'
+[09:27:31] API error for /rest/api/3/field/customfield_10610/contexts: 'BackupManager' object has no attribute '_normalize_url'
+[09:27:31] API error for /rest/api/3/screens?fieldId=customfield_10610: 'BackupManager' object has no attribute '_normalize_url'
+[11:39:11] API error for /rest/api/3/field/customfield_10581: 'BackupManager' object has no attribute '_normalize_url'
+[11:39:11] API error for /rest/api/3/field/customfield_10581/contexts: 'BackupManager' object has no attribute '_normalize_url'
+[11:39:11] API error for /rest/api/3/screens?fieldId=customfield_10581: 'BackupManager' object has no attribute '_normalize_url'

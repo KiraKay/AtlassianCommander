@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11176",
+  "key": "customfield_11176",
+  "name": "Entity ID",
+  "untranslatedName": "Entity ID",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11176]",
+    "Entity ID",
+    "Entity ID[Short text]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "customId": 11176
+  }
+}

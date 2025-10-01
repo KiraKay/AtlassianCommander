@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11381",
+  "key": "customfield_11381",
+  "name": "Roadmap",
+  "untranslatedName": "Roadmap",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11381]",
+    "Roadmap[Dropdown]",
+    "Roadmap"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11476"
+    }
+  },
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11381
+  }
+}

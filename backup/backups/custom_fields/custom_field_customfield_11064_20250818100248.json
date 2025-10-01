@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11064",
+  "key": "customfield_11064",
+  "name": "Urgency",
+  "untranslatedName": "Urgency",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Urgency[Dropdown]",
+    "Urgency",
+    "cf[11064]"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11064
+  }
+}

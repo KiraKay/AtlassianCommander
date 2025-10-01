@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11348",
+  "key": "customfield_11348",
+  "name": "Idea archived on",
+  "untranslatedName": "Idea archived on",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Idea archived on[Time stamp]",
+    "Idea archived on",
+    "cf[11348]"
+  ],
+  "schema": {
+    "type": "datetime",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datetime",
+    "customId": 11348
+  }
+}

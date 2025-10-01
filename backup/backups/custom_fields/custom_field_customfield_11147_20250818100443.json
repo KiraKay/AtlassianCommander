@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11147",
+  "key": "customfield_11147",
+  "name": "Division",
+  "untranslatedName": "Division",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11147]",
+    "Division",
+    "Division[Dropdown]"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11147
+  }
+}

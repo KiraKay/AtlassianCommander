@@ -1,0 +1,7 @@
+{
+  "name": "Default Bugzilla Workflow",
+  "description": "The Bugzilla Default Workflow",
+  "lastModifiedDate": "02/Jul/15 4:10 PM",
+  "steps": 5,
+  "default": false
+}

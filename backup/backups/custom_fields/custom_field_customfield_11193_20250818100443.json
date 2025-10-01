@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11193",
+  "key": "customfield_11193",
+  "name": "IT Help Ticket Label",
+  "untranslatedName": "IT Help Ticket Label",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11193]",
+    "IT Help Ticket Label"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.toolkit:viewmessage",
+    "customId": 11193
+  }
+}

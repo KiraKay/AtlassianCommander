@@ -1,0 +1,9 @@
+{
+  "name": "New of HELP: Service Request Integrations Workflow",
+  "description": "Used for Integration Requests. This requires approval before the issue can be transition or assigned. This is a part of IT-294",
+  "lastModifiedDate": "27/Feb/25 4:14 PM",
+  "lastModifiedUser": "Kimberly Ingram",
+  "lastModifiedUserAccountId": "712020:97c76936-7b83-4d68-a679-988a4dbc9580",
+  "steps": 15,
+  "default": false
+}

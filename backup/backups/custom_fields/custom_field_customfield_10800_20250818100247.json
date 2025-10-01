@@ -1,0 +1,23 @@
+{
+  "id": "customfield_10800",
+  "key": "customfield_10800",
+  "name": "Team",
+  "untranslatedName": "Team",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Team[Team]",
+    "cf[10800]",
+    "Team"
+  ],
+  "schema": {
+    "type": "team",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:atlassian-team",
+    "customId": 10800,
+    "configuration": {
+      "com.atlassian.jira.plugin.system.customfieldtypes:atlassian-team": true
+    }
+  }
+}

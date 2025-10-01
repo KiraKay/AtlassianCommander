@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11077",
+  "key": "customfield_11077",
+  "name": "Change reason",
+  "untranslatedName": "Change reason",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Change reason",
+    "cf[11077]",
+    "Change reason[Dropdown]"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11077
+  }
+}

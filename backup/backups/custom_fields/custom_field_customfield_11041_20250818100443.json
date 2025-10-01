@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11041",
+  "key": "customfield_11041",
+  "name": "Confluence Doc",
+  "untranslatedName": "Confluence Doc",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11041]",
+    "Confluence Doc",
+    "Confluence Doc[Short text]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11116"
+    }
+  },
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "customId": 11041
+  }
+}

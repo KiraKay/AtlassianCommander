@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11076",
+  "key": "customfield_11076",
+  "name": "Change risk",
+  "untranslatedName": "Change risk",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11076]",
+    "Change risk",
+    "Change risk[Dropdown]"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11076
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11577",
+  "key": "customfield_11577",
+  "name": "Idea Score",
+  "untranslatedName": "Idea Score",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11577]",
+    "Idea Score",
+    "Idea Score[Number]"
+  ],
+  "schema": {
+    "type": "number",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "customId": 11577
+  }
+}

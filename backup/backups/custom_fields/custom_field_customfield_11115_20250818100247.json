@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11115",
+  "key": "customfield_11115",
+  "name": "Category",
+  "untranslatedName": "Category",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11115]",
+    "Category[Category]"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:jwm-category",
+    "customId": 11115
+  }
+}

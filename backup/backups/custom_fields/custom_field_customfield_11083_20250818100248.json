@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11083",
+  "key": "customfield_11083",
+  "name": "Actual start",
+  "untranslatedName": "Actual start",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Actual start[Time stamp]",
+    "cf[11083]",
+    "Actual start"
+  ],
+  "schema": {
+    "type": "datetime",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datetime",
+    "customId": 11083
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11128",
+  "key": "customfield_11128",
+  "name": "Confirm Customer ID - Jira issue link",
+  "untranslatedName": "Confirm Customer ID - Jira issue link",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11128]",
+    "Confirm Customer ID - Jira issue link",
+    "Confirm Customer ID - Jira issue link[URL Field]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:url",
+    "customId": 11128
+  }
+}

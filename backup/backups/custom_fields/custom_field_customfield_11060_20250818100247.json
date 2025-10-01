@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11060",
+  "key": "customfield_11060",
+  "name": "External issue ID",
+  "untranslatedName": "External issue ID",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "External issue ID",
+    "External issue ID[Short text]",
+    "cf[11060]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "customId": 11060
+  }
+}

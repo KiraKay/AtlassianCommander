@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11138",
+  "key": "customfield_11138",
+  "name": "Position",
+  "untranslatedName": "Position",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Position[Short text]",
+    "Position",
+    "cf[11138]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "customId": 11138
+  }
+}

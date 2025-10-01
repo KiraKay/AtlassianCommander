@@ -1,0 +1,12 @@
+{
+  "id": 11379,
+  "name": "Jira Service Management IT Support Workflow Scheme generated for Project AUDIT",
+  "description": "This Jira Service Management IT Support Workflow Scheme was generated for Project AUDIT",
+  "defaultWorkflow": "jira",
+  "issueTypeMappings": {
+    "10362": "AUDIT: General request workflow for Jira Service Management",
+    "3": "AUDIT: Jira Service Management default workflow",
+    "5": "AUDIT: Jira Service Management default workflow"
+  },
+  "self": "https://openvpn.atlassian.net/rest/api/3/workflowscheme/11379"
+}

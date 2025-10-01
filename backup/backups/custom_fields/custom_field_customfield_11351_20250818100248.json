@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11351",
+  "key": "customfield_11351",
+  "name": "Insights",
+  "untranslatedName": "Insights",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11351]",
+    "Insights"
+  ],
+  "schema": {
+    "type": "number",
+    "custom": "jira.polaris:count-insights",
+    "customId": 11351
+  }
+}

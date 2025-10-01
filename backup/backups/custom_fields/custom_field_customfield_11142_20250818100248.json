@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11142",
+  "key": "customfield_11142",
+  "name": "Reports to",
+  "untranslatedName": "Reports to",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Reports to[User Picker (single user)]",
+    "Reports to",
+    "cf[11142]"
+  ],
+  "schema": {
+    "type": "user",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:userpicker",
+    "customId": 11142
+  }
+}

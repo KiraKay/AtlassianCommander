@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11047",
+  "key": "customfield_11047",
+  "name": "Status Report",
+  "untranslatedName": "Status Report",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11047]",
+    "Status Report",
+    "Status Report[Short text]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11116"
+    }
+  },
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "customId": 11047
+  }
+}

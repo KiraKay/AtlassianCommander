@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11643",
+  "key": "customfield_11643",
+  "name": "Confluence Link",
+  "untranslatedName": "Confluence Link",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Confluence Link",
+    "Confluence Link[URL Field]",
+    "cf[11643]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:url",
+    "customId": 11643
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Import 2 of Default Bugzilla Workflow",
+  "description": "The Bugzilla Default Workflow",
+  "lastModifiedDate": "09/Jul/15 1:15 PM",
+  "steps": 6,
+  "default": false
+}

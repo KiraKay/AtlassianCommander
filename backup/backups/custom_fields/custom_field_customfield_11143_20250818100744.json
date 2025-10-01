@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11143",
+  "key": "customfield_11143",
+  "name": "Tech Onboarding Owner",
+  "untranslatedName": "Tech Onboarding Owner",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11143]",
+    "Tech Onboarding Owner",
+    "Tech Onboarding Owner[User Picker (single user)]"
+  ],
+  "schema": {
+    "type": "user",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:userpicker",
+    "customId": 11143
+  }
+}

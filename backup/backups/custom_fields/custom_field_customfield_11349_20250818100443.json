@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11349",
+  "key": "customfield_11349",
+  "name": "Atlassian project",
+  "untranslatedName": "Atlassian project",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Atlassian project",
+    "cf[11349]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "jira.polaris:atlassian-project",
+    "customId": 11349
+  }
+}

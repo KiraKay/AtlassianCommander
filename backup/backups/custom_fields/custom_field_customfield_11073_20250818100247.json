@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11073",
+  "key": "customfield_11073",
+  "name": "Severity",
+  "untranslatedName": "Severity",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11073]",
+    "Severity",
+    "Severity[Dropdown]"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11073
+  }
+}

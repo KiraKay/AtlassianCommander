@@ -1,0 +1,24 @@
+{
+  "id": "customfield_11347",
+  "key": "customfield_11347",
+  "name": "Idea archived by",
+  "untranslatedName": "Idea archived by",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Idea archived by",
+    "cf[11347]",
+    "Idea archived by[People]"
+  ],
+  "schema": {
+    "type": "array",
+    "items": "user",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:people",
+    "customId": 11347,
+    "configuration": {
+      "isMulti": true
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "customfield_10008",
+  "key": "customfield_10008",
+  "name": "Epic Link",
+  "untranslatedName": "Epic Link",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[10008]",
+    "Epic Link"
+  ],
+  "schema": {
+    "type": "any",
+    "custom": "com.pyxis.greenhopper.jira:gh-epic-link",
+    "customId": 10008
+  }
+}

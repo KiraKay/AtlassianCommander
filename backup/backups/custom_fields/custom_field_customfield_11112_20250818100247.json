@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11112",
+  "key": "customfield_11112",
+  "name": "Locked forms",
+  "untranslatedName": "Locked forms",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11112]",
+    "Locked forms"
+  ],
+  "schema": {
+    "type": "number",
+    "custom": "com.atlassian.jira.plugins.proforma-managed-fields:forms-locked-field-cftype",
+    "customId": 11112
+  }
+}

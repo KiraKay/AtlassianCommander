@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11071",
+  "key": "customfield_11071",
+  "name": "Affected hardware",
+  "untranslatedName": "Affected hardware",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Affected hardware",
+    "Affected hardware[Short text]",
+    "cf[11071]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "customId": 11071
+  }
+}

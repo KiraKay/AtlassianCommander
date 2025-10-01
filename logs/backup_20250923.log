@@ -1,0 +1,7 @@
+[16:37:53] GET /rest/api/3/field/customfield_10580 failed: 405 Client Error: Method Not Allowed for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10580
+[16:37:53] GET /rest/api/3/field/customfield_10580/context/11054/option failed: 400 Client Error: Bad Request for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10580/context/11054/option
+[16:37:54] Backed up 1 Custom Fields -> backup/backups/custom_fields/full_backup_custom_fields_20250923_163754.json
+[16:38:14] GET /rest/api/3/field/customfield_10580 failed: 405 Client Error: Method Not Allowed for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10580
+[16:38:15] GET /rest/api/3/field/customfield_10580/context/11054/option failed: 400 Client Error: Bad Request for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10580/context/11054/option
+[16:38:15] Backed up 1 Custom Fields -> backup/backups/custom_fields/full_backup_custom_fields_20250923_163815.json
+[16:38:26] Failed to backup custom field customfield_10580: 'list' object has no attribute 'get'

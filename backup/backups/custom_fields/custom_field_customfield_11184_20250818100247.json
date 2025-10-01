@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11184",
+  "key": "customfield_11184",
+  "name": "Signed Response",
+  "untranslatedName": "Signed Response",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11184]",
+    "Signed Response",
+    "Signed Response[Radio Buttons]"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons",
+    "customId": 11184
+  }
+}

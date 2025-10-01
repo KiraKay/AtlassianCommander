@@ -1,0 +1,28 @@
+[08:47:14] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250930_084714.json
+[08:54:28] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250930_085428.json
+[08:54:29] Trash field customfield_10677: OK
+[08:56:47] Pre-delete backup saved: backup/backups/workflows/full_backup_workflows_20250930_085647.json
+[09:06:35] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250930_090635.json
+[09:06:36] Trash field customfield_10677: OK
+[09:12:52] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250930_091252.json
+[09:12:53] Trash field customfield_10677: OK
+[09:29:38] Pre-delete backup saved: backup/backups/workflows/full_backup_workflows_20250930_092938.json
+[09:29:38] Workflow delete requested but not supported: 7b971663-4e23-45a8-abc4-5b56bcaf191c
+[09:41:39] Pre-delete backup saved: backup/backups/workflows/full_backup_workflows_20250930_094139.json
+[09:41:39] Workflow delete requested but not supported: e3cbfef9-1cf5-4340-823e-b04274b0ff5b
+[09:44:32] Pre-delete backup saved: backup/backups/workflows/full_backup_workflows_20250930_094432.json
+[10:16:53] Pre-delete backup saved: backup/backups/workflows/full_backup_workflows_20250930_101653.json
+[10:16:53] Workflow delete requested but not supported: 7b971663-4e23-45a8-abc4-5b56bcaf191c
+[10:31:19] Pre-delete backup saved: backup/backups/workflows/full_backup_workflows_20250930_103119.json
+[11:00:09] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250930_110009.json
+[11:00:10] Trash field customfield_10677: OK
+[11:00:52] Pre-delete backup saved: backup/backups/workflows/full_backup_workflows_20250930_110052.json
+[11:00:52] Workflow delete requested but not supported: ec9330cf-819d-4d32-b34a-f06b9f56d001
+[11:02:14] Pre-delete backup saved: backup/backups/workflows/full_backup_workflows_20250930_110214.json
+[11:02:14] Workflow delete requested but not supported: ec9330cf-819d-4d32-b34a-f06b9f56d001
+[11:03:58] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250930_110358.json
+[11:03:59] Trash field customfield_10677: OK
+[11:04:50] Pre-delete backup saved: backup/backups/workflows/full_backup_workflows_20250930_110450.json
+[11:04:50] Workflow delete requested but not supported: ec9330cf-819d-4d32-b34a-f06b9f56d001
+[11:15:15] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250930_111515.json
+[11:15:16] Trash field customfield_10677: OK

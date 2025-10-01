@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11676",
+  "key": "customfield_11676",
+  "name": "Target Environment",
+  "untranslatedName": "Target Environment",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11676]",
+    "Target Environment",
+    "Target Environment[Paragraph]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11707"
+    }
+  },
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "customId": 11676
+  }
+}

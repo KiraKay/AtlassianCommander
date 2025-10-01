@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11048",
+  "key": "customfield_11048",
+  "name": "Ticket Issue Time",
+  "untranslatedName": "Ticket Issue Time",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11048]",
+    "Ticket Issue Time",
+    "Ticket Issue Time[Time stamp]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11129"
+    }
+  },
+  "schema": {
+    "type": "datetime",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datetime",
+    "customId": 11048
+  }
+}

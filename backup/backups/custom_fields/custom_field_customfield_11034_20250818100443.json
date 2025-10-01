@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11034",
+  "key": "customfield_11034",
+  "name": "End date",
+  "untranslatedName": "End date",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11034]",
+    "End date",
+    "End date[Date]"
+  ],
+  "schema": {
+    "type": "date",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "customId": 11034
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11081",
+  "key": "customfield_11081",
+  "name": "Planned start",
+  "untranslatedName": "Planned start",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11081]",
+    "Planned start",
+    "Planned start[Time stamp]"
+  ],
+  "schema": {
+    "type": "datetime",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datetime",
+    "customId": 11081
+  }
+}

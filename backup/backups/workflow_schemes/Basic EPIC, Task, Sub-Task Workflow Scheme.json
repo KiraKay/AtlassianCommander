@@ -1,0 +1,12 @@
+{
+  "id": 11380,
+  "name": "Basic EPIC, Task, Sub-Task Workflow Scheme",
+  "description": "",
+  "defaultWorkflow": "Basic workflow for Epic, Task, Sub-Task Issue Types",
+  "issueTypeMappings": {
+    "10000": "Basic workflow for Epic, Task, Sub-Task Issue Types",
+    "3": "Basic workflow for Epic, Task, Sub-Task Issue Types",
+    "5": "Basic workflow for Epic, Task, Sub-Task Issue Types"
+  },
+  "self": "https://openvpn.atlassian.net/rest/api/3/workflowscheme/11380"
+}

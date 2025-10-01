@@ -1,0 +1,4 @@
+[11:00:16] GET /rest/api/3/field/customfield_10677 failed: 405 Client Error: Method Not Allowed for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10677
+[11:00:16] GET /rest/api/3/field/customfield_10677/context/11151/option failed: 400 Client Error: Bad Request for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10677/context/11151/option
+[11:00:17] Backed up 1 Custom Fields -> backup/backups/custom_fields/full_backup_custom_fields_20251001_110017.json
+[11:01:19] Backed up 1 Workflows -> backup/backups/workflows/full_backup_workflows_20251001_110119.json

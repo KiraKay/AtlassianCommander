@@ -1,0 +1,10 @@
+{
+  "id": 11291,
+  "name": "Simplied Workflow Scheme for Support project",
+  "description": "Simplified Workflow Scheme for Support project",
+  "defaultWorkflow": "Simplified support workflow",
+  "issueTypeMappings": {
+    "10169": "SUPPORT documentation workflow"
+  },
+  "self": "https://openvpn.atlassian.net/rest/api/3/workflowscheme/11291"
+}

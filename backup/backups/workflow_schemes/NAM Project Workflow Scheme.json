@@ -1,0 +1,18 @@
+{
+  "id": 11355,
+  "name": "NAM Project Workflow Scheme",
+  "defaultWorkflow": "Software Simplified Workflow for Project UNIFIED",
+  "issueTypeMappings": {
+    "1": "NAM Workflow for New Dev/Bug Workflow In review",
+    "3": "NAM Workflow for New Dev/Bug Workflow In review",
+    "10108": "NAM Workflow for New Dev/Bug Workflow In review",
+    "4": "NAM Workflow for New Dev/Bug Workflow In review",
+    "5": "NAM Workflow for New Dev/Bug Workflow In review",
+    "10286": "NAM Workflow for New Dev/Bug Workflow In review",
+    "10122": "Work Item Workflow",
+    "10001": "NAM Workflow for New Dev/Bug Workflow In review",
+    "10105": "Work Item Workflow",
+    "10104": "Design Task Workflow"
+  },
+  "self": "https://openvpn.atlassian.net/rest/api/3/workflowscheme/11355"
+}

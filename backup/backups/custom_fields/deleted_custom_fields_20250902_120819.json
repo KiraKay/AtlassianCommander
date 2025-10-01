@@ -1,0 +1,202 @@
+[
+  {
+    "id": "customfield_10000",
+    "name": "[CHART] Time in Status"
+  },
+  {
+    "id": "customfield_11183",
+    "name": "ACS URL"
+  },
+  {
+    "id": "customfield_11084",
+    "name": "Actual end"
+  },
+  {
+    "id": "customfield_11083",
+    "name": "Actual start"
+  },
+  {
+    "id": "customfield_11180",
+    "name": "Additional Information"
+  },
+  {
+    "id": "customfield_11071",
+    "name": "Affected hardware"
+  },
+  {
+    "id": "customfield_11072",
+    "name": "Affected services"
+  },
+  {
+    "id": "versions",
+    "name": "Affects versions"
+  },
+  {
+    "id": "customfield_11213",
+    "name": "AIP Asset"
+  },
+  {
+    "id": "customfield_11156",
+    "name": "Allowed members to comment on off-boarding tickets"
+  },
+  {
+    "id": "customfield_11181",
+    "name": "Application Name"
+  },
+  {
+    "id": "customfield_10500",
+    "name": "Approvals"
+  },
+  {
+    "id": "customfield_11070",
+    "name": "Approver groups"
+  },
+  {
+    "id": "customfield_11069",
+    "name": "Approvers"
+  },
+  {
+    "id": "assignee",
+    "name": "Assignee"
+  },
+  {
+    "id": "customfield_11349",
+    "name": "Atlassian project"
+  },
+  {
+    "id": "customfield_11350",
+    "name": "Atlassian project status"
+  },
+  {
+    "id": "attachment",
+    "name": "Attachment"
+  },
+  {
+    "id": "customfield_11203",
+    "name": "Authorized Members"
+  },
+  {
+    "id": "customfield_11079",
+    "name": "Backout plan"
+  },
+  {
+    "id": "customfield_11613",
+    "name": "BE estimate"
+  },
+  {
+    "id": "customfield_11182",
+    "name": "Callback URI"
+  },
+  {
+    "id": "customfield_11115",
+    "name": "Category"
+  },
+  {
+    "id": "customfield_11077",
+    "name": "Change reason"
+  },
+  {
+    "id": "customfield_11076",
+    "name": "Change risk"
+  },
+  {
+    "id": "customfield_11075",
+    "name": "Change type"
+  },
+  {
+    "id": "customfield_11122",
+    "name": "Client Email"
+  },
+  {
+    "id": "customfield_11123",
+    "name": "Client's Name"
+  },
+  {
+    "id": "comment",
+    "name": "Comment"
+  },
+  {
+    "id": "customfield_11445",
+    "name": "Comment for Won't Do"
+  },
+  {
+    "id": "customfield_11352",
+    "name": "Comments"
+  },
+  {
+    "id": "components",
+    "name": "Components"
+  },
+  {
+    "id": "customfield_11128",
+    "name": "Confirm Customer ID - Jira issue link"
+  },
+  {
+    "id": "customfield_11643",
+    "name": "Confluence Link"
+  },
+  {
+    "id": "created",
+    "name": "Created"
+  },
+  {
+    "id": "creator",
+    "name": "Creator"
+  },
+  {
+    "id": "customfield_11354",
+    "name": "Delivery progress"
+  },
+  {
+    "id": "customfield_11355",
+    "name": "Delivery status"
+  },
+  {
+    "id": "description",
+    "name": "Description"
+  },
+  {
+    "id": "customfield_11211",
+    "name": "Description for Opensearch alert request"
+  },
+  {
+    "id": "customfield_11131",
+    "name": "Design"
+  },
+  {
+    "id": "customfield_11096",
+    "name": "Dev bugs root cause"
+  },
+  {
+    "id": "customfield_10700",
+    "name": "development"
+  },
+  {
+    "id": "customfield_11147",
+    "name": "Division"
+  },
+  {
+    "id": "duedate",
+    "name": "Due date"
+  },
+  {
+    "id": "customfield_11176",
+    "name": "Entity ID"
+  },
+  {
+    "id": "environment",
+    "name": "Environment"
+  },
+  {
+    "id": "customfield_11208",
+    "name": "Environment for Alert PROD"
+  },
+  {
+    "id": "customfield_11207",
+    "name": "Environment for Alert request"
+  },
+  {
+    "id": "customfield_11205",
+    "name": "Environment for NonPROD"
+  }
+]

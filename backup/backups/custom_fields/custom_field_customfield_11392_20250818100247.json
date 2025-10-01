@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11392",
+  "key": "customfield_11392",
+  "name": "Idea short description",
+  "untranslatedName": "Idea short description",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11392]",
+    "Idea short description",
+    "Idea short description[Short text]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11476"
+    }
+  },
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "customId": 11392
+  }
+}

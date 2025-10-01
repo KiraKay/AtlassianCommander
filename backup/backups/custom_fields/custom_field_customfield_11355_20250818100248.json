@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11355",
+  "key": "customfield_11355",
+  "name": "Delivery status",
+  "untranslatedName": "Delivery status",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11355]",
+    "Delivery status"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "jira.polaris:delivery-status",
+    "customId": 11355
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11140",
+  "key": "customfield_11140",
+  "name": "Location",
+  "untranslatedName": "Location",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Location[Short text]",
+    "cf[11140]",
+    "Location"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "customId": 11140
+  }
+}

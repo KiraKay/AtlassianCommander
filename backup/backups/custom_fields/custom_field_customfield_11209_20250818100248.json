@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11209",
+  "key": "customfield_11209",
+  "name": "Subpriority",
+  "untranslatedName": "Subpriority",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Subpriority[Number]",
+    "Subpriority",
+    "cf[11209]"
+  ],
+  "schema": {
+    "type": "number",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "customId": 11209
+  }
+}

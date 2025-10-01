@@ -1,0 +1,16 @@
+{
+  "id": 11365,
+  "name": "WEB: Blank project workflow scheme",
+  "description": "",
+  "defaultWorkflow": "Website workflow (base issues)",
+  "issueTypeMappings": {
+    "1": "Website workflow (base issues)",
+    "3": "Website workflow (base issues)",
+    "5": "Website workflow (base issues)",
+    "10000": "Website workflow (base issues)",
+    "10321": "Website workflow (base issues)",
+    "10320": "Website workflow (base issues)",
+    "10322": "Website workflow (base issues)"
+  },
+  "self": "https://openvpn.atlassian.net/rest/api/3/workflowscheme/11365"
+}

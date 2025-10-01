@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11072",
+  "key": "customfield_11072",
+  "name": "Affected services",
+  "untranslatedName": "Affected services",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Affected services",
+    "cf[11072]"
+  ],
+  "schema": {
+    "type": "array",
+    "items": "service-entity-field",
+    "custom": "com.atlassian.jira.plugins.service-entity:service-entity-field-cftype",
+    "customId": 11072
+  }
+}

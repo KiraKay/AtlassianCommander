@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11063",
+  "key": "customfield_11063",
+  "name": "Request language",
+  "untranslatedName": "Request language",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11063]",
+    "Request language"
+  ],
+  "schema": {
+    "type": "sd-request-lang",
+    "custom": "com.atlassian.servicedesk.servicedesk-lingo-integration-plugin:sd-request-language",
+    "customId": 11063
+  }
+}

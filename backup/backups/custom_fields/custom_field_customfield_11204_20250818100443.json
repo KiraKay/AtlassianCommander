@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11204",
+  "key": "customfield_11204",
+  "name": "Portal",
+  "untranslatedName": "Portal",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11204]",
+    "Portal",
+    "Portal[Dropdown]"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11204
+  }
+}

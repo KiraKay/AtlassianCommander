@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11110",
+  "key": "customfield_11110",
+  "name": "Open forms",
+  "untranslatedName": "Open forms",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11110]",
+    "Open forms"
+  ],
+  "schema": {
+    "type": "number",
+    "custom": "com.atlassian.jira.plugins.proforma-managed-fields:forms-open-field-cftype",
+    "customId": 11110
+  }
+}

@@ -1,0 +1,2 @@
+[15:01:14] GET /rest/api/3/field/customfield_10512 failed: 405 Client Error: Method Not Allowed for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10512
+[15:01:16] Backed up 1 Custom Fields -> backup/backups/full_backup_custom_fields_20250910_150116.json

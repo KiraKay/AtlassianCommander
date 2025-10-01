@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11189",
+  "key": "customfield_11189",
+  "name": "Steps Taken to Resolve",
+  "untranslatedName": "Steps Taken to Resolve",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11189]",
+    "Steps Taken to Resolve",
+    "Steps Taken to Resolve[Paragraph]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "customId": 11189
+  }
+}

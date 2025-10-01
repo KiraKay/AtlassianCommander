@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11067",
+  "key": "customfield_11067",
+  "name": "Product categorization",
+  "untranslatedName": "Product categorization",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11067]",
+    "Product categorization",
+    "Product categorization[Select List (cascading)]"
+  ],
+  "schema": {
+    "type": "option-with-child",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:cascadingselect",
+    "customId": 11067
+  }
+}

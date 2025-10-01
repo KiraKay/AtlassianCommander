@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11046",
+  "key": "customfield_11046",
+  "name": "Start Time GMT",
+  "untranslatedName": "Start Time GMT",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Start Time GMT",
+    "Start Time GMT[Time stamp]",
+    "cf[11046]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11129"
+    }
+  },
+  "schema": {
+    "type": "datetime",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datetime",
+    "customId": 11046
+  }
+}

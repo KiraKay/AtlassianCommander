@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11040",
+  "key": "customfield_11040",
+  "name": "Story point estimate",
+  "untranslatedName": "Story point estimate",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11040]",
+    "Story point estimate"
+  ],
+  "schema": {
+    "type": "number",
+    "custom": "com.pyxis.greenhopper.jira:jsw-story-points",
+    "customId": 11040
+  }
+}

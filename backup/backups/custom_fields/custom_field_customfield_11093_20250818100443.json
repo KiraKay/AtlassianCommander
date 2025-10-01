@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11093",
+  "key": "customfield_11093",
+  "name": "Task Groups",
+  "untranslatedName": "Task Groups",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11093]",
+    "Task Groups",
+    "Task Groups[Dropdown]"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11093
+  }
+}

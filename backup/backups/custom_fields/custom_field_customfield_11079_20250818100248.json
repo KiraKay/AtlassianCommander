@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11079",
+  "key": "customfield_11079",
+  "name": "Backout plan",
+  "untranslatedName": "Backout plan",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Backout plan",
+    "Backout plan[Paragraph]",
+    "cf[11079]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "customId": 11079
+  }
+}

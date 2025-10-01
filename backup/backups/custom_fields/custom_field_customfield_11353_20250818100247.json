@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11353",
+  "key": "customfield_11353",
+  "name": "Linked items",
+  "untranslatedName": "Linked items",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11353]",
+    "Linked items"
+  ],
+  "schema": {
+    "type": "number",
+    "custom": "jira.polaris:count-linked-issues",
+    "customId": 11353
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11099",
+  "key": "customfield_11099",
+  "name": "Staging URL",
+  "untranslatedName": "Staging URL",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Staging URL[Short text]",
+    "Staging URL",
+    "cf[11099]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11169"
+    }
+  },
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "customId": 11099
+  }
+}

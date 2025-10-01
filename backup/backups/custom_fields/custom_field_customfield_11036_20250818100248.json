@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11036",
+  "key": "customfield_11036",
+  "name": "Baseline end date",
+  "untranslatedName": "Baseline end date",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Baseline end date[Date]",
+    "cf[11036]",
+    "Baseline end date"
+  ],
+  "schema": {
+    "type": "date",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "customId": 11036
+  }
+}

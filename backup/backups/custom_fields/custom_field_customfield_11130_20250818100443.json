@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11130",
+  "key": "customfield_11130",
+  "name": "estimatedhours",
+  "untranslatedName": "estimatedhours",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11130]",
+    "estimatedhours",
+    "estimatedhours[Number]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11126"
+    }
+  },
+  "schema": {
+    "type": "number",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "customId": 11130
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "HRQ: Jira Service Management default workflow",
+  "description": "This Jira Service Management default workflow was generated for Project HRQ",
+  "lastModifiedDate": "05/Dec/24 10:37 AM",
+  "lastModifiedUser": "Alex John",
+  "lastModifiedUserAccountId": "627e41bb0e2c49006904e219",
+  "steps": 5,
+  "default": false
+}

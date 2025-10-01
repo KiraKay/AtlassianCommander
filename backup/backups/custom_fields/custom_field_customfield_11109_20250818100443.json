@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11109",
+  "key": "customfield_11109",
+  "name": "Expected delivery date",
+  "untranslatedName": "Expected delivery date",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11109]",
+    "Expected delivery date",
+    "Expected delivery date[Date]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11172"
+    }
+  },
+  "schema": {
+    "type": "date",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "customId": 11109
+  }
+}

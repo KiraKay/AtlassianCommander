@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11111",
+  "key": "customfield_11111",
+  "name": "Submitted forms",
+  "untranslatedName": "Submitted forms",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11111]",
+    "Submitted forms"
+  ],
+  "schema": {
+    "type": "number",
+    "custom": "com.atlassian.jira.plugins.proforma-managed-fields:forms-submitted-field-cftype",
+    "customId": 11111
+  }
+}

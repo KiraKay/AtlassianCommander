@@ -1,0 +1,19 @@
+{
+  "id": "customfield_10010",
+  "key": "customfield_10010",
+  "name": "Epic Status",
+  "untranslatedName": "Epic Status",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[10010]",
+    "Epic Status"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.pyxis.greenhopper.jira:gh-epic-status",
+    "customId": 10010
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11104",
+  "key": "customfield_11104",
+  "name": "Zendesk Ticket Count",
+  "untranslatedName": "Zendesk Ticket Count",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11104]",
+    "Zendesk Ticket Count",
+    "Zendesk Ticket Count[Number]"
+  ],
+  "schema": {
+    "type": "number",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "customId": 11104
+  }
+}

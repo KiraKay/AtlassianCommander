@@ -1,0 +1,13 @@
+{
+  "id": 11368,
+  "name": "Website workflow scheme",
+  "description": "Scheme for Website project",
+  "defaultWorkflow": "Copy of Website workflow (base issues)",
+  "issueTypeMappings": {
+    "1": "Copy of Website Adjustment workflow",
+    "10332": "Copy of Website Adjustment workflow",
+    "10331": "Website subtask worflow",
+    "10104": "Website subtask worflow"
+  },
+  "self": "https://openvpn.atlassian.net/rest/api/3/workflowscheme/11368"
+}

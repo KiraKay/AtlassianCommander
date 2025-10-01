@@ -1,0 +1,25 @@
+{
+  "id": "customfield_11213",
+  "key": "aip-asset-custom-field-type__e8386b79-5c14-4489-b834-ffd9cd698673",
+  "name": "AIP Asset",
+  "untranslatedName": "AIP Asset",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "AIP Asset",
+    "cf[11213]"
+  ],
+  "schema": {
+    "type": "array",
+    "items": "string",
+    "custom": "ari:cloud:ecosystem::extension/a36eb56c-2fd1-4a62-abe7-5b7e91833621/1496df98-fd0d-41ae-a26a-fba7b3b36c26/static/aip-asset-custom-field-type",
+    "customId": 11213,
+    "configuration": {
+      "customRenderer": false,
+      "readOnly": false,
+      "environment": "PRODUCTION"
+    }
+  }
+}

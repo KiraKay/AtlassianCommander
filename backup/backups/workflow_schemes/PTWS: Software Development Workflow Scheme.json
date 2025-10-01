@@ -1,0 +1,12 @@
+{
+  "id": 10500,
+  "name": "PTWS: Software Development Workflow Scheme",
+  "description": "",
+  "defaultWorkflow": "PTWS: Software Development Workflow",
+  "issueTypeMappings": {
+    "1": "Import 2 of Default Bugzilla Workflow",
+    "2": "Import 2 of Default Bugzilla Workflow",
+    "4": "Import 2 of Default Bugzilla Workflow"
+  },
+  "self": "https://openvpn.atlassian.net/rest/api/3/workflowscheme/10500"
+}

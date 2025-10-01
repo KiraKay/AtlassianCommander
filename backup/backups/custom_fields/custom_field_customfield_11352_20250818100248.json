@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11352",
+  "key": "customfield_11352",
+  "name": "Comments",
+  "untranslatedName": "Comments",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11352]",
+    "Comments"
+  ],
+  "schema": {
+    "type": "number",
+    "custom": "jira.polaris:count-issue-comments",
+    "customId": 11352
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "11079",
+  "name": "PORTALS: Kanban Bug Screen Scheme",
+  "original_list_object": {
+    "id": 11079,
+    "name": "PORTALS: Kanban Bug Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 11464
+    }
+  },
+  "detail": null,
+  "issueTypeScreenMappings": [],
+  "backup_timestamp": "2025-08-19T10:57:12"
+}

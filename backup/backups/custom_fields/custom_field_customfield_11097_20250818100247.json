@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11097",
+  "key": "customfield_11097",
+  "name": "Major incident",
+  "untranslatedName": "Major incident",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Major incident",
+    "cf[11097]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.modules.servicemanagement.major-incident-entity:major-incident-entity-field-cftype",
+    "customId": 11097
+  }
+}

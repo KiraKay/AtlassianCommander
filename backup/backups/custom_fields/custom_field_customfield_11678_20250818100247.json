@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11678",
+  "key": "customfield_11678",
+  "name": "Actual Behaviour",
+  "untranslatedName": "Actual Behaviour",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Actual Behaviour",
+    "Actual Behaviour[Paragraph]",
+    "cf[11678]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11707"
+    }
+  },
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "customId": 11678
+  }
+}

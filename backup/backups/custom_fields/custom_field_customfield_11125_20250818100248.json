@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11125",
+  "key": "com.atlassian.atlas.jira__project-status",
+  "name": "Project overview status",
+  "untranslatedName": "Project overview status",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11125]",
+    "Project overview status"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "read-only-string-issue-field",
+    "customId": 11125
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11044",
+  "key": "customfield_11044",
+  "name": "Customer Impact",
+  "untranslatedName": "Customer Impact",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Customer Impact[Dropdown]",
+    "cf[11044]",
+    "Customer Impact"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11129"
+    }
+  },
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11044
+  }
+}

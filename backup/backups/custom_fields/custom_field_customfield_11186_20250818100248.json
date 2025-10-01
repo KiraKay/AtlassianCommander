@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11186",
+  "key": "customfield_11186",
+  "name": "role",
+  "untranslatedName": "role",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "role[Dropdown]",
+    "cf[11186]",
+    "role"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11126"
+    }
+  },
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11186
+  }
+}

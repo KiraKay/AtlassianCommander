@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11043",
+  "key": "customfield_11043",
+  "name": "Failure Type",
+  "untranslatedName": "Failure Type",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11043]",
+    "Failure Type",
+    "Failure Type[Dropdown]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11129"
+    }
+  },
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11043
+  }
+}

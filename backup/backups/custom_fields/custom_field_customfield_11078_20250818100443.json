@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11078",
+  "key": "customfield_11078",
+  "name": "Implementation plan",
+  "untranslatedName": "Implementation plan",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11078]",
+    "Implementation plan",
+    "Implementation plan[Paragraph]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "customId": 11078
+  }
+}

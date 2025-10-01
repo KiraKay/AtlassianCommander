@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11385",
+  "key": "customfield_11385",
+  "name": "Spec ready",
+  "untranslatedName": "Spec ready",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11385]",
+    "Spec ready",
+    "Spec ready[Checkbox]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11476"
+    }
+  },
+  "schema": {
+    "type": "number",
+    "custom": "jira.polaris:boolean",
+    "customId": 11385
+  }
+}

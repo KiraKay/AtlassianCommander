@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11173",
+  "key": "customfield_11173",
+  "name": "Sentiment",
+  "untranslatedName": "Sentiment",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11173]",
+    "Sentiment"
+  ],
+  "schema": {
+    "type": "array",
+    "items": "sd-sentiment",
+    "custom": "com.atlassian.servicedesk.sentiment:sd-sentiment",
+    "customId": 11173
+  }
+}

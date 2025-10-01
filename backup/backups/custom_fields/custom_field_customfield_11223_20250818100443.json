@@ -1,0 +1,27 @@
+{
+  "id": "customfield_11223",
+  "key": "customfield_11223",
+  "name": "Goal",
+  "untranslatedName": "Goal",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11223]",
+    "Goal",
+    "Goal[Checkboxes]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11245"
+    }
+  },
+  "schema": {
+    "type": "array",
+    "items": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "customId": 11223
+  }
+}

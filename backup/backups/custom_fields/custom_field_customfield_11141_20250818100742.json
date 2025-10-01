@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11141",
+  "key": "customfield_11141",
+  "name": "Department",
+  "untranslatedName": "Department",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11141]",
+    "Department",
+    "Department[Dropdown]"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11141
+  }
+}

@@ -1,0 +1,30 @@
+[08:47:13] GET /rest/api/3/field/customfield_10677 failed: 405 Client Error: Method Not Allowed for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10677
+[08:47:13] GET /rest/api/3/field/customfield_10677/context/11151/option failed: 400 Client Error: Bad Request for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10677/context/11151/option
+[08:47:14] Backed up 1 Custom Fields -> backup/backups/custom_fields/full_backup_custom_fields_20250930_084714.json
+[08:54:26] GET /rest/api/3/field/customfield_10677 failed: 405 Client Error: Method Not Allowed for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10677
+[08:54:27] GET /rest/api/3/field/customfield_10677/context/11151/option failed: 400 Client Error: Bad Request for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10677/context/11151/option
+[08:54:28] Backed up 1 Custom Fields -> backup/backups/custom_fields/full_backup_custom_fields_20250930_085428.json
+[08:56:47] Backed up 1 Workflows -> backup/backups/workflows/full_backup_workflows_20250930_085647.json
+[09:06:34] GET /rest/api/3/field/customfield_10677 failed: 405 Client Error: Method Not Allowed for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10677
+[09:06:34] GET /rest/api/3/field/customfield_10677/context/11151/option failed: 400 Client Error: Bad Request for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10677/context/11151/option
+[09:06:35] Backed up 1 Custom Fields -> backup/backups/custom_fields/full_backup_custom_fields_20250930_090635.json
+[09:12:51] GET /rest/api/3/field/customfield_10677 failed: 405 Client Error: Method Not Allowed for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10677
+[09:12:52] GET /rest/api/3/field/customfield_10677/context/11151/option failed: 400 Client Error: Bad Request for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10677/context/11151/option
+[09:12:52] Backed up 1 Custom Fields -> backup/backups/custom_fields/full_backup_custom_fields_20250930_091252.json
+[09:29:38] Backed up 1 Workflows -> backup/backups/workflows/full_backup_workflows_20250930_092938.json
+[09:41:39] Backed up 1 Workflows -> backup/backups/workflows/full_backup_workflows_20250930_094139.json
+[09:44:32] Backed up 1 Workflows -> backup/backups/workflows/full_backup_workflows_20250930_094432.json
+[10:16:53] Backed up 1 Workflows -> backup/backups/workflows/full_backup_workflows_20250930_101653.json
+[10:31:19] Backed up 1 Workflows -> backup/backups/workflows/full_backup_workflows_20250930_103119.json
+[11:00:08] GET /rest/api/3/field/customfield_10677 failed: 405 Client Error: Method Not Allowed for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10677
+[11:00:08] GET /rest/api/3/field/customfield_10677/context/11151/option failed: 400 Client Error: Bad Request for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10677/context/11151/option
+[11:00:09] Backed up 1 Custom Fields -> backup/backups/custom_fields/full_backup_custom_fields_20250930_110009.json
+[11:00:52] Backed up 1 Workflows -> backup/backups/workflows/full_backup_workflows_20250930_110052.json
+[11:02:14] Backed up 1 Workflows -> backup/backups/workflows/full_backup_workflows_20250930_110214.json
+[11:03:57] GET /rest/api/3/field/customfield_10677 failed: 405 Client Error: Method Not Allowed for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10677
+[11:03:58] GET /rest/api/3/field/customfield_10677/context/11151/option failed: 400 Client Error: Bad Request for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10677/context/11151/option
+[11:03:58] Backed up 1 Custom Fields -> backup/backups/custom_fields/full_backup_custom_fields_20250930_110358.json
+[11:04:50] Backed up 1 Workflows -> backup/backups/workflows/full_backup_workflows_20250930_110450.json
+[11:15:14] GET /rest/api/3/field/customfield_10677 failed: 405 Client Error: Method Not Allowed for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10677
+[11:15:14] GET /rest/api/3/field/customfield_10677/context/11151/option failed: 400 Client Error: Bad Request for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10677/context/11151/option
+[11:15:15] Backed up 1 Custom Fields -> backup/backups/custom_fields/full_backup_custom_fields_20250930_111515.json

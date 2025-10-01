@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11090",
+  "key": "customfield_11090",
+  "name": "Time to first response",
+  "untranslatedName": "Time to first response",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11090]",
+    "Time to first response"
+  ],
+  "schema": {
+    "type": "sd-servicelevelagreement",
+    "custom": "com.atlassian.servicedesk:sd-sla-field",
+    "customId": 11090
+  }
+}

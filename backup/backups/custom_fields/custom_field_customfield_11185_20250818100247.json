@@ -1,0 +1,21 @@
+{
+  "id": "customfield_11185",
+  "key": "customfield_11185",
+  "name": "Goals",
+  "untranslatedName": "Goals",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Goals",
+    "Goals[Goals]",
+    "cf[11185]"
+  ],
+  "schema": {
+    "type": "array",
+    "items": "Goals",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:goals",
+    "customId": 11185
+  }
+}

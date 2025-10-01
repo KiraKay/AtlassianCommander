@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11037",
+  "key": "customfield_11037",
+  "name": "Request Type",
+  "untranslatedName": "Request Type",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11037]",
+    "Request Type"
+  ],
+  "schema": {
+    "type": "sd-customerrequesttype",
+    "custom": "com.atlassian.servicedesk:vp-origin",
+    "customId": 11037
+  }
+}

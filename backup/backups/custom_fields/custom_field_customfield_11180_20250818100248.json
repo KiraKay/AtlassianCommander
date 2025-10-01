@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11180",
+  "key": "customfield_11180",
+  "name": "Additional Information",
+  "untranslatedName": "Additional Information",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11180]",
+    "Additional Information[Paragraph]",
+    "Additional Information"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "customId": 11180
+  }
+}

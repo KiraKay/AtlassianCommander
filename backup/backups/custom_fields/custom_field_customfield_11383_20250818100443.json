@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11383",
+  "key": "customfield_11383",
+  "name": "Impact score",
+  "untranslatedName": "Impact score",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11383]",
+    "Impact score",
+    "Impact score[Custom formula]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11476"
+    }
+  },
+  "schema": {
+    "type": "number",
+    "custom": "jira.polaris:formula",
+    "customId": 11383
+  }
+}

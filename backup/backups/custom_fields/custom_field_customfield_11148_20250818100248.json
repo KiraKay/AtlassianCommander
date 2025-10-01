@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11148",
+  "key": "customfield_11148",
+  "name": "Vulnerability",
+  "untranslatedName": "Vulnerability",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11148]",
+    "Vulnerability"
+  ],
+  "schema": {
+    "type": "any",
+    "custom": "com.atlassian.jira.plugins.jira-development-integration-plugin:vulnerabilitycf",
+    "customId": 11148
+  }
+}

@@ -1,0 +1,48 @@
+[08:55:04] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_085504.json
+[09:00:00] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_090000.json
+[09:02:27] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_090227.json
+[09:04:19] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_090419.json
+[09:27:31] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_092731.json
+[09:27:38] Field not found for deletion: customfield_10610
+[09:31:41] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_093141.json
+[09:31:47] Field not found for deletion: customfield_10610
+[09:33:11] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_093311.json
+[09:33:25] Field not found for deletion: customfield_10610
+[09:34:15] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_093415.json
+[09:34:20] Field not found for deletion: customfield_10610
+[09:35:53] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_093553.json
+[09:35:54] Failed to delete custom field customfield_10610: 404 Client Error: Not Found for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10610/delete
+[09:36:03] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_093603.json
+[09:36:04] Failed to delete custom field customfield_10610: 404 Client Error: Not Found for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10610/delete
+[09:40:17] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_094017.json
+[09:40:17] [DRY RUN] Would delete Custom Field: customfield_10610
+[09:49:56] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_094956.json
+[09:49:56] [DRY RUN] Would delete Custom Field: customfield_10581
+[09:57:12] Pre-delete backup saved: backup/backups/custom_fields/Backup_Custom_Fields_20250924_095712.json
+[11:24:26] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_112426.json
+[11:28:43] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_112843.json
+[11:30:14] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_113014.json
+[11:31:46] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_113146.json
+[11:32:42] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_113242.json
+[11:33:50] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_113350.json
+[11:39:11] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_113911.json
+[11:39:13] Field not found for deletion: customfield_10581
+[11:39:59] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_113959.json
+[11:40:06] Field not found for deletion: customfield_10581
+[11:41:16] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_114116.json
+[11:41:17] Failed to delete custom field customfield_10581: 404 Client Error: Not Found for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10581/delete
+[11:41:54] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_114154.json
+[11:41:54] Failed to delete custom field customfield_10581: 404 Client Error: Not Found for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10581/delete
+[11:43:20] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_114320.json
+[11:58:09] Pre-delete backup saved: None
+[12:29:21] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_122921.json
+[12:51:42] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_125142.json
+[12:54:35] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_125435.json
+[13:07:28] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_130728.json
+[13:16:24] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_131624.json
+[14:22:02] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_142202.json
+[15:05:58] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_150558.json
+[15:10:56] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_151056.json
+[15:15:22] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_151522.json
+[15:20:52] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_152052.json
+[15:29:46] Pre-delete backup saved: backup/backups/custom_fields/full_backup_custom_fields_20250924_152946.json

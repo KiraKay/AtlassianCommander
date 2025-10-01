@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11390",
+  "key": "customfield_11390",
+  "name": "Time Sensitivity",
+  "untranslatedName": "Time Sensitivity",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Time Sensitivity[Rating]",
+    "cf[11390]",
+    "Time Sensitivity"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11476"
+    }
+  },
+  "schema": {
+    "type": "number",
+    "custom": "jira.polaris:rating",
+    "customId": 11390
+  }
+}

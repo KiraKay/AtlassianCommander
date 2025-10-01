@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11546",
+  "key": "customfield_11546",
+  "name": "ReachCC",
+  "untranslatedName": "ReachCC",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "ReachCC[Dropdown]",
+    "cf[11546]",
+    "ReachCC"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11245"
+    }
+  },
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11546
+  }
+}

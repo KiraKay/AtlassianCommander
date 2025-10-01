@@ -1,0 +1,17 @@
+{
+  "id": "customfield_11088",
+  "key": "customfield_11088",
+  "name": "Responders",
+  "untranslatedName": "Responders",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [],
+  "schema": {
+    "type": "array",
+    "items": "string",
+    "custom": "com.atlassian.jira.modules.servicemanagement.responders-entity:responders-entity-field-cftype",
+    "customId": 11088
+  }
+}

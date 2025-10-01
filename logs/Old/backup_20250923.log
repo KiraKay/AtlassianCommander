@@ -1,0 +1,14 @@
+[11:33:33] GET /rest/api/3/field/customfield_10077 failed: 405 Client Error: Method Not Allowed for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10077
+[11:33:34] GET /rest/api/3/field/customfield_10077/context/10192/option failed: 400 Client Error: Bad Request for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10077/context/10192/option
+[11:33:35] Backed up 1 Custom Fields -> backup/backups/full_backup_custom_fields_20250923_113335.json
+[11:41:20] GET /rest/api/3/field/customfield_10577 failed: 405 Client Error: Method Not Allowed for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10577
+[11:41:21] GET /rest/api/3/field/customfield_10577/context/11051/option failed: 400 Client Error: Bad Request for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10577/context/11051/option
+[11:41:21] Backed up 1 Custom Fields -> backup/backups/full_backup_custom_fields_20250923_114121.json
+[11:50:11] GET /rest/api/3/field/customfield_10578 failed: 405 Client Error: Method Not Allowed for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10578
+[11:50:12] GET /rest/api/3/field/customfield_10578/context/11052/option failed: 400 Client Error: Bad Request for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10578/context/11052/option
+[11:50:13] Backed up 1 Custom Fields -> backup/backups/custom_fields/full_backup_custom_fields_20250923_115013.json
+[11:50:13] Failed to backup custom field customfield_10578: JiraToolGUI._get() missing 1 required positional argument: 'item_type'
+[12:44:25] GET /rest/api/3/field/customfield_10579 failed: 405 Client Error: Method Not Allowed for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10579
+[12:44:25] GET /rest/api/3/field/customfield_10579/context/11053/option failed: 400 Client Error: Bad Request for url: https://openvpn-test.atlassian.net/rest/api/3/field/customfield_10579/context/11053/option
+[12:44:26] Backed up 1 Custom Fields -> backup/backups/custom_fields/full_backup_custom_fields_20250923_124426.json
+[12:44:38] Failed to backup custom field customfield_10579: 'list' object has no attribute 'get'

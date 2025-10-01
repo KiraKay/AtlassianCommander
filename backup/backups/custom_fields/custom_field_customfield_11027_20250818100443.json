@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11027",
+  "key": "customfield_11027",
+  "name": "Task progress",
+  "untranslatedName": "Task progress",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11027]",
+    "Task progress",
+    "Task progress[Number]"
+  ],
+  "schema": {
+    "type": "number",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "customId": 11027
+  }
+}

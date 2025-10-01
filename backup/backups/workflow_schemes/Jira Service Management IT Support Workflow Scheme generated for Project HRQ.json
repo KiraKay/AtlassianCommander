@@ -1,0 +1,13 @@
+{
+  "id": 11375,
+  "name": "Jira Service Management IT Support Workflow Scheme generated for Project HRQ",
+  "description": "This Jira Service Management IT Support Workflow Scheme was generated for Project HRQ",
+  "defaultWorkflow": "jira",
+  "issueTypeMappings": {
+    "1": "HRQ: Jira Service Management default workflow",
+    "2": "HRQ: Jira Service Management default workflow",
+    "10353": "HRQ: Service Request Fulfilment workflow for Jira Service Management",
+    "10355": "Employee Review"
+  },
+  "self": "https://openvpn.atlassian.net/rest/api/3/workflowscheme/11375"
+}

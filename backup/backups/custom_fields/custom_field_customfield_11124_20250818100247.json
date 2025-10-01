@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11124",
+  "key": "com.atlassian.atlas.jira__project-key",
+  "name": "Project overview key",
+  "untranslatedName": "Project overview key",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Project overview key",
+    "cf[11124]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "read-only-string-issue-field",
+    "customId": 11124
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11168",
+  "key": "customfield_11168",
+  "name": "Slack channels",
+  "untranslatedName": "Slack channels",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Slack channels",
+    "Slack channels[Short text]",
+    "cf[11168]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "customId": 11168
+  }
+}

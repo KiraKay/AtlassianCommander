@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11117",
+  "key": "customfield_11117",
+  "name": "Planned",
+  "untranslatedName": "Planned",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Planned",
+    "Planned[Select List (cascading)]",
+    "cf[11117]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11126"
+    }
+  },
+  "schema": {
+    "type": "option-with-child",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:cascadingselect",
+    "customId": 11117
+  }
+}

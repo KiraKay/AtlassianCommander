@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11350",
+  "key": "customfield_11350",
+  "name": "Atlassian project status",
+  "untranslatedName": "Atlassian project status",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11350]",
+    "Atlassian project status"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "jira.polaris:atlassian-project-status",
+    "customId": 11350
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11031",
+  "key": "customfield_11031",
+  "name": "Test Type",
+  "untranslatedName": "Test Type",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Test Type",
+    "Test Type[Radio Buttons]",
+    "cf[11031]"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons",
+    "customId": 11031
+  }
+}

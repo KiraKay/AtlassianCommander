@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11206",
+  "key": "customfield_11206",
+  "name": "Environment for PROD",
+  "untranslatedName": "Environment for PROD",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11206]",
+    "Environment for PROD",
+    "Environment for PROD[Dropdown]"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11206
+  }
+}

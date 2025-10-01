@@ -1,0 +1,21 @@
+{
+  "id": "customfield_10003",
+  "key": "customfield_10003",
+  "name": "Epic/Theme",
+  "untranslatedName": "Epic/Theme",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[10003]",
+    "Epic/Theme",
+    "Epic/Theme[Labels]"
+  ],
+  "schema": {
+    "type": "array",
+    "items": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:labels",
+    "customId": 10003
+  }
+}

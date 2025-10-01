@@ -1,0 +1,17 @@
+{
+  "id": "customfield_11709",
+  "key": "customfield_11709",
+  "name": "Focus Areas",
+  "untranslatedName": "Focus Areas",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [],
+  "schema": {
+    "type": "array",
+    "items": "Focus Areas",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:focus-areas",
+    "customId": 11709
+  }
+}

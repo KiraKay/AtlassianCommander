@@ -1,0 +1,21 @@
+{
+  "id": "customfield_11511",
+  "key": "customfield_11511",
+  "name": "SEC Ticket Contributor",
+  "untranslatedName": "SEC Ticket Contributor",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "SEC Ticket Contributor[User Picker (multiple users)]",
+    "SEC Ticket Contributor",
+    "cf[11511]"
+  ],
+  "schema": {
+    "type": "array",
+    "items": "user",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiuserpicker",
+    "customId": 11511
+  }
+}

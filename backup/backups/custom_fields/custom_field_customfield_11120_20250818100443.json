@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11120",
+  "key": "customfield_11120",
+  "name": "TDT_UniqueID",
+  "untranslatedName": "TDT_UniqueID",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11120]",
+    "TDT_UniqueID",
+    "TDT_UniqueID[Short text]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "customId": 11120
+  }
+}

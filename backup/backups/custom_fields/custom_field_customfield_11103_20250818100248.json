@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11103",
+  "key": "customfield_11103",
+  "name": "Zendesk Ticket IDs",
+  "untranslatedName": "Zendesk Ticket IDs",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11103]",
+    "Zendesk Ticket IDs",
+    "Zendesk Ticket IDs[Paragraph]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "customId": 11103
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "customfield_11241",
+  "key": "customfield_11241",
+  "name": "Product Area",
+  "untranslatedName": "Product Area",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11241]",
+    "Product Area",
+    "Product Area[Checkboxes]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11245"
+    }
+  },
+  "schema": {
+    "type": "array",
+    "items": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "customId": 11241
+  }
+}

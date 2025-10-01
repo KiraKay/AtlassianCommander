@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11123",
+  "key": "customfield_11123",
+  "name": "Client's Name",
+  "untranslatedName": "Client's Name",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11123]",
+    "Client's Name",
+    "Client's Name[Short text]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "customId": 11123
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11681,
+  "name": "Software Simplified Workflow Scheme for SSO project",
+  "description": "Software Simplified Workflow Scheme for SSO project",
+  "defaultWorkflow": "Dev/Bug Workflow for SSO",
+  "issueTypeMappings": {
+    "10183": "Software Simplified Workflow for Project UNIFIED",
+    "10000": "Software Simplified Workflow for Project UNIFIED",
+    "10100": "Software Simplified Workflow for Project UNIFIED",
+    "10122": "Work Item Workflow",
+    "10136": "Software Simplified Workflow for Project UNIFIED",
+    "10105": "Work Item Workflow"
+  },
+  "self": "https://openvpn.atlassian.net/rest/api/3/workflowscheme/11681"
+}

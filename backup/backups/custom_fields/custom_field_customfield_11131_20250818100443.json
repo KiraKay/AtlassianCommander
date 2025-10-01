@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11131",
+  "key": "customfield_11131",
+  "name": "Design",
+  "untranslatedName": "Design",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11131]",
+    "Design"
+  ],
+  "schema": {
+    "type": "array",
+    "items": "design.field.name",
+    "custom": "com.atlassian.jira.plugins.jira-development-integration-plugin:designcf",
+    "customId": 11131
+  }
+}

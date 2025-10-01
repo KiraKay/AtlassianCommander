@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11033",
+  "key": "customfield_11033",
+  "name": "Start date",
+  "untranslatedName": "Start date",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11033]",
+    "Start date",
+    "Start date[Date]"
+  ],
+  "schema": {
+    "type": "date",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "customId": 11033
+  }
+}

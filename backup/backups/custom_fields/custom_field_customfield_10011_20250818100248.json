@@ -1,0 +1,19 @@
+{
+  "id": "customfield_10011",
+  "key": "customfield_10011",
+  "name": "Epic Color",
+  "untranslatedName": "Epic Color",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[10011]",
+    "Epic Color"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.pyxis.greenhopper.jira:gh-epic-color",
+    "customId": 10011
+  }
+}

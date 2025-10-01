@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11480",
+  "key": "customfield_11480",
+  "name": "Integration Request Approver",
+  "untranslatedName": "Integration Request Approver",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11480]",
+    "Integration Request Approver",
+    "Integration Request Approver[User Picker (single user)]"
+  ],
+  "schema": {
+    "type": "user",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:userpicker",
+    "customId": 11480
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11058",
+  "key": "customfield_11058",
+  "name": "subpriority",
+  "untranslatedName": "subpriority",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11058]",
+    "subpriority",
+    "subpriority[Number]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11116"
+    }
+  },
+  "schema": {
+    "type": "number",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "customId": 11058
+  }
+}

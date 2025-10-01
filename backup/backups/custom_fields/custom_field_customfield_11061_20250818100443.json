@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11061",
+  "key": "customfield_11061",
+  "name": "Work category",
+  "untranslatedName": "Work category",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11061]",
+    "Work category"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugins.work-category-field:work-category-field-cftype",
+    "customId": 11061
+  }
+}

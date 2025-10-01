@@ -1,0 +1,11 @@
+{
+  "id": 11338,
+  "name": "SECINC: Blank project workflow scheme",
+  "description": "",
+  "defaultWorkflow": "SECINC: Blank project default workflow",
+  "issueTypeMappings": {
+    "3": "SECINC: Blank project default workflow",
+    "5": "SECINC: Blank project default workflow"
+  },
+  "self": "https://openvpn.atlassian.net/rest/api/3/workflowscheme/11338"
+}

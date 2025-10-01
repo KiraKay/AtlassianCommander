@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11089",
+  "key": "customfield_11089",
+  "name": "Time to resolution",
+  "untranslatedName": "Time to resolution",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11089]",
+    "Time to resolution"
+  ],
+  "schema": {
+    "type": "sd-servicelevelagreement",
+    "custom": "com.atlassian.servicedesk:sd-sla-field",
+    "customId": 11089
+  }
+}

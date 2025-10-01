@@ -1,0 +1,54 @@
+[08:46:38] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[08:47:00] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[08:47:01] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[08:54:35] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[08:54:38] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[08:57:13] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[09:00:20] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[09:00:33] Restored custom field customfield_10677
+[09:06:03] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[09:06:12] Workflow recovery requested but not supported: 2c69f323-73cf-4140-a1b1-585d556c1a2e
+[09:06:41] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[09:06:54] Restored custom field customfield_10677
+[09:10:13] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[09:10:15] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[09:10:23] Workflow recovery requested but not supported: 2c69f323-73cf-4140-a1b1-585d556c1a2e
+[09:12:16] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[09:12:17] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[09:12:20] Workflow recovery requested but not supported: 2c69f323-73cf-4140-a1b1-585d556c1a2e
+[09:13:00] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[09:13:08] Restored custom field customfield_10677
+[09:13:38] Workflow recovery requested but not supported: 2c69f323-73cf-4140-a1b1-585d556c1a2e
+[09:14:08] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[09:14:11] Workflow recovery requested but not supported: 2c69f323-73cf-4140-a1b1-585d556c1a2e
+[09:34:13] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[09:34:48] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[09:36:06] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[09:38:32] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[09:38:36] Workflow recovery requested but not supported: 2c69f323-73cf-4140-a1b1-585d556c1a2e
+[09:38:36] Workflow recovery requested but not supported: 7b971663-4e23-45a8-abc4-5b56bcaf191c
+[09:40:45] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[09:40:48] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[09:44:41] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[09:59:30] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[10:03:02] [DRY RUN] Would recover workflow DIS: Jira Service Management default workflow
+[10:06:54] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[10:06:55] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[10:09:01] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[10:22:06] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[10:22:08] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[10:27:16] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[10:42:03] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[10:42:07] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[10:59:39] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[10:59:41] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[11:02:33] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[11:02:35] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[11:02:42] Restored custom field customfield_10677
+[11:04:11] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[11:04:22] Restored custom field customfield_10677
+[11:15:27] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[11:15:46] Restored custom field customfield_10677
+[11:17:26] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)
+[11:17:35] Restore failed for customfield_10677: 400 Bad Request (check field state/permissions). {"errorMessages":["Field is not trashed."],"errors":{}}
+[11:24:49] Skip unreadable backup backup/backups/custom_fields/custom_field_customfield_10001_20250818100443.json: Expecting value: line 1 column 1 (char 0)

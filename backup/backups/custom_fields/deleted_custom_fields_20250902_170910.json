@@ -1,0 +1,1050 @@
+[
+  {
+    "id": "customfield_10001",
+    "name": "[CHART] Date of First Response"
+  },
+  {
+    "id": "customfield_10000",
+    "name": "[CHART] Time in Status"
+  },
+  {
+    "id": "customfield_11183",
+    "name": "ACS URL"
+  },
+  {
+    "id": "customfield_11678",
+    "name": "Actual Behaviour"
+  },
+  {
+    "id": "customfield_11200",
+    "name": "Actual Behaviour"
+  },
+  {
+    "id": "customfield_11084",
+    "name": "Actual end"
+  },
+  {
+    "id": "customfield_11083",
+    "name": "Actual start"
+  },
+  {
+    "id": "customfield_11180",
+    "name": "Additional Information"
+  },
+  {
+    "id": "customfield_11197",
+    "name": "Additional Information"
+  },
+  {
+    "id": "customfield_11680",
+    "name": "Additional Information"
+  },
+  {
+    "id": "customfield_11071",
+    "name": "Affected hardware"
+  },
+  {
+    "id": "customfield_11072",
+    "name": "Affected services"
+  },
+  {
+    "id": "versions",
+    "name": "Affects versions"
+  },
+  {
+    "id": "customfield_11213",
+    "name": "AIP Asset"
+  },
+  {
+    "id": "customfield_11156",
+    "name": "Allowed members to comment on off-boarding tickets"
+  },
+  {
+    "id": "customfield_11181",
+    "name": "Application Name"
+  },
+  {
+    "id": "customfield_10500",
+    "name": "Approvals"
+  },
+  {
+    "id": "customfield_11070",
+    "name": "Approver groups"
+  },
+  {
+    "id": "customfield_11069",
+    "name": "Approvers"
+  },
+  {
+    "id": "assignee",
+    "name": "Assignee"
+  },
+  {
+    "id": "customfield_11349",
+    "name": "Atlassian project"
+  },
+  {
+    "id": "customfield_11350",
+    "name": "Atlassian project status"
+  },
+  {
+    "id": "attachment",
+    "name": "Attachment"
+  },
+  {
+    "id": "customfield_11203",
+    "name": "Authorized Members"
+  },
+  {
+    "id": "customfield_11079",
+    "name": "Backout plan"
+  },
+  {
+    "id": "customfield_11036",
+    "name": "Baseline end date"
+  },
+  {
+    "id": "customfield_11035",
+    "name": "Baseline start date"
+  },
+  {
+    "id": "customfield_11613",
+    "name": "BE estimate"
+  },
+  {
+    "id": "customfield_11202",
+    "name": "Bug Not Reported Previously"
+  },
+  {
+    "id": "customfield_11681",
+    "name": "Bug Not Reported Previously"
+  },
+  {
+    "id": "customfield_10005",
+    "name": "Business Value"
+  },
+  {
+    "id": "customfield_11182",
+    "name": "Callback URI"
+  },
+  {
+    "id": "customfield_11115",
+    "name": "Category"
+  },
+  {
+    "id": "customfield_11119",
+    "name": "Category"
+  },
+  {
+    "id": "customfield_11389",
+    "name": "Category"
+  },
+  {
+    "id": "customfield_11235",
+    "name": "Category"
+  },
+  {
+    "id": "customfield_11077",
+    "name": "Change reason"
+  },
+  {
+    "id": "customfield_11076",
+    "name": "Change risk"
+  },
+  {
+    "id": "customfield_11075",
+    "name": "Change type"
+  },
+  {
+    "id": "customfield_11122",
+    "name": "Client Email"
+  },
+  {
+    "id": "customfield_11123",
+    "name": "Client's Name"
+  },
+  {
+    "id": "comment",
+    "name": "Comment"
+  },
+  {
+    "id": "customfield_11445",
+    "name": "Comment for Won't Do"
+  },
+  {
+    "id": "customfield_11352",
+    "name": "Comments"
+  },
+  {
+    "id": "components",
+    "name": "Components"
+  },
+  {
+    "id": "customfield_11101",
+    "name": "Components *"
+  },
+  {
+    "id": "customfield_11393",
+    "name": "Confidence"
+  },
+  {
+    "id": "customfield_11239",
+    "name": "Confidence-NotInUse"
+  },
+  {
+    "id": "customfield_11248",
+    "name": "ConfidenceCC"
+  },
+  {
+    "id": "customfield_11128",
+    "name": "Confirm Customer ID - Jira issue link"
+  },
+  {
+    "id": "customfield_11041",
+    "name": "Confluence Doc"
+  },
+  {
+    "id": "customfield_11643",
+    "name": "Confluence Link"
+  },
+  {
+    "id": "created",
+    "name": "Created"
+  },
+  {
+    "id": "creator",
+    "name": "Creator"
+  },
+  {
+    "id": "customfield_11161",
+    "name": "Current Production URL"
+  },
+  {
+    "id": "customfield_11044",
+    "name": "Customer Impact"
+  },
+  {
+    "id": "customfield_11230",
+    "name": "Customer segments"
+  },
+  {
+    "id": "customfield_11384",
+    "name": "Customer segments"
+  },
+  {
+    "id": "customfield_11354",
+    "name": "Delivery progress"
+  },
+  {
+    "id": "customfield_11355",
+    "name": "Delivery status"
+  },
+  {
+    "id": "customfield_11382",
+    "name": "Delivery Teams"
+  },
+  {
+    "id": "customfield_11141",
+    "name": "Department"
+  },
+  {
+    "id": "description",
+    "name": "Description"
+  },
+  {
+    "id": "customfield_11211",
+    "name": "Description for Opensearch alert request"
+  },
+  {
+    "id": "customfield_11131",
+    "name": "Design"
+  },
+  {
+    "id": "customfield_11159",
+    "name": "Design URL"
+  },
+  {
+    "id": "customfield_11386",
+    "name": "Designs ready"
+  },
+  {
+    "id": "customfield_11232",
+    "name": "Designs ready"
+  },
+  {
+    "id": "customfield_11096",
+    "name": "Dev bugs root cause"
+  },
+  {
+    "id": "customfield_10700",
+    "name": "development"
+  },
+  {
+    "id": "customfield_11147",
+    "name": "Division"
+  },
+  {
+    "id": "customfield_11394",
+    "name": "Documents"
+  },
+  {
+    "id": "customfield_11240",
+    "name": "Documents"
+  },
+  {
+    "id": "duedate",
+    "name": "Due date"
+  },
+  {
+    "id": "customfield_11129",
+    "name": "duedate"
+  },
+  {
+    "id": "customfield_11391",
+    "name": "Effort"
+  },
+  {
+    "id": "customfield_11547",
+    "name": "Effort CC"
+  },
+  {
+    "id": "customfield_11237",
+    "name": "Effort-NotInUse"
+  },
+  {
+    "id": "customfield_11144",
+    "name": "Employment Status"
+  },
+  {
+    "id": "customfield_11034",
+    "name": "End date"
+  },
+  {
+    "id": "customfield_11045",
+    "name": "End Time GMT"
+  },
+  {
+    "id": "customfield_11176",
+    "name": "Entity ID"
+  },
+  {
+    "id": "environment",
+    "name": "Environment"
+  },
+  {
+    "id": "customfield_11208",
+    "name": "Environment for Alert PROD"
+  },
+  {
+    "id": "customfield_11207",
+    "name": "Environment for Alert request"
+  },
+  {
+    "id": "customfield_11205",
+    "name": "Environment for NonPROD"
+  },
+  {
+    "id": "customfield_11206",
+    "name": "Environment for PROD"
+  },
+  {
+    "id": "customfield_10011",
+    "name": "Epic Color"
+  },
+  {
+    "id": "customfield_10008",
+    "name": "Epic Link"
+  },
+  {
+    "id": "customfield_10009",
+    "name": "Epic Name"
+  },
+  {
+    "id": "customfield_10010",
+    "name": "Epic Status"
+  },
+  {
+    "id": "customfield_10003",
+    "name": "Epic/Theme"
+  },
+  {
+    "id": "customfield_11150",
+    "name": "Est hours"
+  },
+  {
+    "id": "customfield_11059",
+    "name": "esthours"
+  },
+  {
+    "id": "customfield_11130",
+    "name": "estimatedhours"
+  },
+  {
+    "id": "customfield_11679",
+    "name": "Expected Behaviour"
+  },
+  {
+    "id": "customfield_11201",
+    "name": "Expected Behaviour"
+  },
+  {
+    "id": "customfield_11109",
+    "name": "Expected delivery date"
+  },
+  {
+    "id": "customfield_11157",
+    "name": "Expected Release URL"
+  },
+  {
+    "id": "customfield_11060",
+    "name": "External issue ID"
+  },
+  {
+    "id": "customfield_11043",
+    "name": "Failure Type"
+  },
+  {
+    "id": "customfield_11612",
+    "name": "FE estimate"
+  },
+  {
+    "id": "customfield_11548",
+    "name": "Feature Type"
+  },
+  {
+    "id": "customfield_11136",
+    "name": "First Name"
+  },
+  {
+    "id": "customfield_10002",
+    "name": "Flagged"
+  },
+  {
+    "id": "customfield_11709",
+    "name": "Focus Areas"
+  },
+  {
+    "id": "customfield_11170",
+    "name": "FreeIPA groups"
+  },
+  {
+    "id": "customfield_11223",
+    "name": "Goal"
+  },
+  {
+    "id": "customfield_11185",
+    "name": "Goals"
+  },
+  {
+    "id": "customfield_11346",
+    "name": "Idea archived"
+  },
+  {
+    "id": "customfield_11347",
+    "name": "Idea archived by"
+  },
+  {
+    "id": "customfield_11348",
+    "name": "Idea archived on"
+  },
+  {
+    "id": "customfield_11577",
+    "name": "Idea Score"
+  },
+  {
+    "id": "customfield_11238",
+    "name": "Idea short description"
+  },
+  {
+    "id": "customfield_11392",
+    "name": "Idea short description"
+  },
+  {
+    "id": "customfield_11379",
+    "name": "Impact"
+  },
+  {
+    "id": "customfield_11057",
+    "name": "Impact"
+  },
+  {
+    "id": "customfield_11065",
+    "name": "Impact"
+  },
+  {
+    "id": "customfield_11383",
+    "name": "Impact score"
+  },
+  {
+    "id": "customfield_11229",
+    "name": "Impact score-NotInUse"
+  },
+  {
+    "id": "customfield_11217",
+    "name": "Impact-NotInUse"
+  },
+  {
+    "id": "customfield_11545",
+    "name": "ImpactCC"
+  },
+  {
+    "id": "customfield_11078",
+    "name": "Implementation plan"
+  },
+  {
+    "id": "customfield_11412",
+    "name": "Implementer"
+  },
+  {
+    "id": "customfield_11095",
+    "name": "INF Custom Resolution Field"
+  },
+  {
+    "id": "customfield_11351",
+    "name": "Insights"
+  },
+  {
+    "id": "customfield_11480",
+    "name": "Integration Request Approver"
+  },
+  {
+    "id": "customfield_11479",
+    "name": "Integration Request Approvers"
+  },
+  {
+    "id": "customfield_11085",
+    "name": "Investigation reason"
+  },
+  {
+    "id": "customfield_11042",
+    "name": "Issue color"
+  },
+  {
+    "id": "customfield_11190",
+    "name": "Issue Description"
+  },
+  {
+    "id": "customfield_11193",
+    "name": "IT Help Ticket Label"
+  },
+  {
+    "id": "customfield_11132",
+    "name": "Labels"
+  },
+  {
+    "id": "customfield_11149",
+    "name": "Labels"
+  },
+  {
+    "id": "customfield_11133",
+    "name": "Labels"
+  },
+  {
+    "id": "customfield_11135",
+    "name": "Labels"
+  },
+  {
+    "id": "customfield_11134",
+    "name": "Labels"
+  },
+  {
+    "id": "customfield_11137",
+    "name": "Last Name"
+  },
+  {
+    "id": "customfield_11178",
+    "name": "LDAP Client's Group"
+  },
+  {
+    "id": "customfield_11177",
+    "name": "LDAP Client\u2019s Name"
+  },
+  {
+    "id": "customfield_11179",
+    "name": "LDAP Client\u2019s Project"
+  },
+  {
+    "id": "customfield_11353",
+    "name": "Linked items"
+  },
+  {
+    "id": "customfield_11140",
+    "name": "Location"
+  },
+  {
+    "id": "customfield_11112",
+    "name": "Locked forms"
+  },
+  {
+    "id": "customfield_11097",
+    "name": "Major incident"
+  },
+  {
+    "id": "customfield_11677",
+    "name": "Minimal Reproduction"
+  },
+  {
+    "id": "customfield_11198",
+    "name": "Minimal Reproduction"
+  },
+  {
+    "id": "customfield_11169",
+    "name": "Mirror JIRA/Confluence permissions from"
+  },
+  {
+    "id": "customfield_11110",
+    "name": "Open forms"
+  },
+  {
+    "id": "customfield_11068",
+    "name": "Operational categorization"
+  },
+  {
+    "id": "customfield_10900",
+    "name": "Organizations"
+  },
+  {
+    "id": "customfield_10600",
+    "name": "Parent Link"
+  },
+  {
+    "id": "customfield_11102",
+    "name": "Participant"
+  },
+  {
+    "id": "customfield_11610",
+    "name": "PdM estimate"
+  },
+  {
+    "id": "customfield_11066",
+    "name": "Pending reason"
+  },
+  {
+    "id": "customfield_11145",
+    "name": "Personal Email"
+  },
+  {
+    "id": "customfield_11116",
+    "name": "planned"
+  },
+  {
+    "id": "customfield_11117",
+    "name": "Planned"
+  },
+  {
+    "id": "customfield_11082",
+    "name": "Planned end"
+  },
+  {
+    "id": "customfield_11081",
+    "name": "Planned start"
+  },
+  {
+    "id": "customfield_11611",
+    "name": "PM estimate"
+  },
+  {
+    "id": "customfield_11204",
+    "name": "Portal"
+  },
+  {
+    "id": "customfield_11138",
+    "name": "Position"
+  },
+  {
+    "id": "customfield_11160",
+    "name": "Preferred Release Date"
+  },
+  {
+    "id": "customfield_11396",
+    "name": "Prioritization"
+  },
+  {
+    "id": "customfield_11191",
+    "name": "Priority"
+  },
+  {
+    "id": "customfield_11195",
+    "name": "Problem"
+  },
+  {
+    "id": "customfield_11682",
+    "name": "Problem"
+  },
+  {
+    "id": "customfield_11192",
+    "name": "Product"
+  },
+  {
+    "id": "customfield_11241",
+    "name": "Product Area"
+  },
+  {
+    "id": "customfield_11395",
+    "name": "Product Area"
+  },
+  {
+    "id": "customfield_11067",
+    "name": "Product categorization"
+  },
+  {
+    "id": "customfield_11098",
+    "name": "Production URL"
+  },
+  {
+    "id": "customfield_11051",
+    "name": "Program Increment"
+  },
+  {
+    "id": "customfield_11124",
+    "name": "Project overview key"
+  },
+  {
+    "id": "customfield_11125",
+    "name": "Project overview status"
+  },
+  {
+    "id": "customfield_11387",
+    "name": "Project start"
+  },
+  {
+    "id": "customfield_11233",
+    "name": "Project start"
+  },
+  {
+    "id": "customfield_11388",
+    "name": "Project target"
+  },
+  {
+    "id": "customfield_11234",
+    "name": "Project target"
+  },
+  {
+    "id": "customfield_11196",
+    "name": "Proposed Solution"
+  },
+  {
+    "id": "customfield_11683",
+    "name": "Proposed Solution"
+  },
+  {
+    "id": "customfield_11775",
+    "name": "QA Assignee"
+  },
+  {
+    "id": "customfield_11032",
+    "name": "QA Assignee"
+  },
+  {
+    "id": "customfield_11614",
+    "name": "QA estimate"
+  },
+  {
+    "id": "customfield_10100",
+    "name": "Rank"
+  },
+  {
+    "id": "customfield_11546",
+    "name": "ReachCC"
+  },
+  {
+    "id": "customfield_11100",
+    "name": "Related Website/Portal"
+  },
+  {
+    "id": "customfield_11162",
+    "name": "Release Version"
+  },
+  {
+    "id": "customfield_10024",
+    "name": "Release Version History"
+  },
+  {
+    "id": "customfield_11142",
+    "name": "Reports to"
+  },
+  {
+    "id": "customfield_11063",
+    "name": "Request language"
+  },
+  {
+    "id": "customfield_11039",
+    "name": "Request participants"
+  },
+  {
+    "id": "customfield_11037",
+    "name": "Request Type"
+  },
+  {
+    "id": "customfield_11088",
+    "name": "Responders"
+  },
+  {
+    "id": "customfield_11038",
+    "name": "Reviewer(s)"
+  },
+  {
+    "id": "customfield_11224",
+    "name": "Roadmap"
+  },
+  {
+    "id": "customfield_11381",
+    "name": "Roadmap"
+  },
+  {
+    "id": "customfield_11186",
+    "name": "role"
+  },
+  {
+    "id": "customfield_11086",
+    "name": "Root cause"
+  },
+  {
+    "id": "customfield_11049",
+    "name": "Satisfaction"
+  },
+  {
+    "id": "customfield_11062",
+    "name": "Satisfaction date"
+  },
+  {
+    "id": "customfield_11247",
+    "name": "Score"
+  },
+  {
+    "id": "customfield_11511",
+    "name": "SEC Ticket Contributor"
+  },
+  {
+    "id": "customfield_11173",
+    "name": "Sentiment"
+  },
+  {
+    "id": "customfield_11073",
+    "name": "Severity"
+  },
+  {
+    "id": "customfield_11056",
+    "name": "Severity"
+  },
+  {
+    "id": "customfield_11184",
+    "name": "Signed Response"
+  },
+  {
+    "id": "customfield_11168",
+    "name": "Slack channels"
+  },
+  {
+    "id": "customfield_11074",
+    "name": "Source"
+  },
+  {
+    "id": "customfield_11231",
+    "name": "Spec ready"
+  },
+  {
+    "id": "customfield_11385",
+    "name": "Spec ready"
+  },
+  {
+    "id": "customfield_10007",
+    "name": "Sprint"
+  },
+  {
+    "id": "customfield_11099",
+    "name": "Staging URL"
+  },
+  {
+    "id": "customfield_11033",
+    "name": "Start date"
+  },
+  {
+    "id": "customfield_11030",
+    "name": "Start Date"
+  },
+  {
+    "id": "customfield_11146",
+    "name": "Start Date"
+  },
+  {
+    "id": "customfield_11046",
+    "name": "Start Time GMT"
+  },
+  {
+    "id": "customfield_11047",
+    "name": "Status Report"
+  },
+  {
+    "id": "customfield_11189",
+    "name": "Steps Taken to Resolve"
+  },
+  {
+    "id": "customfield_11040",
+    "name": "Story point estimate"
+  },
+  {
+    "id": "customfield_10004",
+    "name": "Story Points"
+  },
+  {
+    "id": "customfield_11111",
+    "name": "Submitted forms"
+  },
+  {
+    "id": "customfield_11209",
+    "name": "Subpriority"
+  },
+  {
+    "id": "customfield_11210",
+    "name": "subpriority"
+  },
+  {
+    "id": "customfield_11154",
+    "name": "SubPriority"
+  },
+  {
+    "id": "customfield_11153",
+    "name": "SubPriority"
+  },
+  {
+    "id": "customfield_11058",
+    "name": "subpriority"
+  },
+  {
+    "id": "customfield_11108",
+    "name": "subpriority"
+  },
+  {
+    "id": "customfield_11055",
+    "name": "Target end"
+  },
+  {
+    "id": "customfield_11199",
+    "name": "Target Environment"
+  },
+  {
+    "id": "customfield_11676",
+    "name": "Target Environment"
+  },
+  {
+    "id": "customfield_11054",
+    "name": "Target start"
+  },
+  {
+    "id": "customfield_11093",
+    "name": "Task Groups"
+  },
+  {
+    "id": "customfield_11027",
+    "name": "Task progress"
+  },
+  {
+    "id": "customfield_11105",
+    "name": "TC created?"
+  },
+  {
+    "id": "customfield_11121",
+    "name": "TDT_Group"
+  },
+  {
+    "id": "customfield_11120",
+    "name": "TDT_UniqueID"
+  },
+  {
+    "id": "customfield_10800",
+    "name": "Team"
+  },
+  {
+    "id": "customfield_11228",
+    "name": "Teams"
+  },
+  {
+    "id": "customfield_11143",
+    "name": "Tech Onboarding Owner"
+  },
+  {
+    "id": "customfield_11164",
+    "name": "Termination Source"
+  },
+  {
+    "id": "customfield_11080",
+    "name": "Test plan"
+  },
+  {
+    "id": "customfield_11031",
+    "name": "Test Type"
+  },
+  {
+    "id": "customfield_11380",
+    "name": "Theme"
+  },
+  {
+    "id": "customfield_11048",
+    "name": "Ticket Issue Time"
+  },
+  {
+    "id": "customfield_11172",
+    "name": "Ticket Resolution"
+  },
+  {
+    "id": "customfield_11390",
+    "name": "Time Sensitivity"
+  },
+  {
+    "id": "customfield_11091",
+    "name": "Time to close after resolution"
+  },
+  {
+    "id": "customfield_11171",
+    "name": "Time to done"
+  },
+  {
+    "id": "customfield_11090",
+    "name": "Time to first response"
+  },
+  {
+    "id": "customfield_11089",
+    "name": "Time to resolution"
+  },
+  {
+    "id": "customfield_11092",
+    "name": "Time to review normal change"
+  },
+  {
+    "id": "customfield_11113",
+    "name": "Total forms"
+  },
+  {
+    "id": "customfield_11064",
+    "name": "Urgency"
+  },
+  {
+    "id": "customfield_11236",
+    "name": "Value-NotInUse"
+  },
+  {
+    "id": "customfield_11148",
+    "name": "Vulnerability"
+  },
+  {
+    "id": "customfield_11061",
+    "name": "Work category"
+  },
+  {
+    "id": "customfield_11139",
+    "name": "Work Email"
+  },
+  {
+    "id": "customfield_11087",
+    "name": "Workaround"
+  },
+  {
+    "id": "customfield_11104",
+    "name": "Zendesk Ticket Count"
+  },
+  {
+    "id": "customfield_11103",
+    "name": "Zendesk Ticket IDs"
+  }
+]

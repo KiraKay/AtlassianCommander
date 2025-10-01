@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11201",
+  "key": "customfield_11201",
+  "name": "Expected Behaviour",
+  "untranslatedName": "Expected Behaviour",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11201]",
+    "Expected Behaviour",
+    "Expected Behaviour[Paragraph]"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11181"
+    }
+  },
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "customId": 11201
+  }
+}

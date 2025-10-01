@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11139",
+  "key": "customfield_11139",
+  "name": "Work Email",
+  "untranslatedName": "Work Email",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Work Email[Short text]",
+    "Work Email",
+    "cf[11139]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "customId": 11139
+  }
+}

@@ -1,0 +1,228 @@
+[
+    {
+        "id": 1,
+        "name": "Default Screen Scheme",
+        "description": "Default Screen Scheme",
+        "screens": {
+            "default": 1
+        }
+    },
+    {
+        "id": 10006,
+        "name": "TEST123: Kanban Default Screen Scheme",
+        "description": "",
+        "screens": {
+            "default": 10006
+        }
+    },
+    {
+        "id": 10007,
+        "name": "TEST123: Kanban Bug Screen Scheme",
+        "description": "",
+        "screens": {
+            "default": 10007
+        }
+    },
+    {
+        "id": 10012,
+        "name": "TASK: Task Management Screen Scheme",
+        "description": "",
+        "screens": {
+            "default": 10014,
+            "create": 10013
+        }
+    },
+    {
+        "id": 10013,
+        "name": "Customer questions screen scheme",
+        "description": "",
+        "screens": {
+            "default": 10015
+        }
+    },
+    {
+        "id": 10014,
+        "name": "new hire accounts creation screen scheme",
+        "description": "",
+        "screens": {
+            "default": 10016,
+            "create": 10013
+        }
+    },
+    {
+        "id": 10015,
+        "name": "Task-based Screen Scheme",
+        "description": "",
+        "screens": {
+            "default": 10019
+        }
+    },
+    {
+        "id": 10016,
+        "name": "TM: Kanban Default Screen Scheme",
+        "description": "",
+        "screens": {
+            "default": 10020
+        }
+    },
+    {
+        "id": 10017,
+        "name": "TM: Kanban Bug Screen Scheme",
+        "description": "",
+        "screens": {
+            "default": 10021
+        }
+    },
+    {
+        "id": 10018,
+        "name": "RP: Kanban Default Screen Scheme",
+        "description": "",
+        "screens": {
+            "default": 10022
+        }
+    },
+    {
+        "id": 10019,
+        "name": "RP: Kanban Bug Screen Scheme",
+        "description": "",
+        "screens": {
+            "default": 10023
+        }
+    },
+    {
+        "id": 10020,
+        "name": "YC: Scrum Default Screen Scheme",
+        "description": "",
+        "screens": {
+            "default": 10024
+        }
+    },
+    {
+        "id": 10021,
+        "name": "YC: Scrum Bug Screen Scheme",
+        "description": "",
+        "screens": {
+            "default": 10025
+        }
+    },
+    {
+        "id": 10022,
+        "name": "ITSAMPLE: Jira Service Management Screen Scheme",
+        "description": "This Jira Service Management Screen Scheme was generated automatically",
+        "screens": {
+            "default": 10026
+        }
+    },
+    {
+        "id": 10023,
+        "name": "ITSAMPLE: Jira Service Management: Change Management Screen Scheme",
+        "description": "",
+        "screens": {
+            "default": 10027,
+            "edit": 10028,
+            "create": 10027,
+            "view": 10028
+        }
+    },
+    {
+        "id": 10024,
+        "name": "ITSAMPLE: Jira Service Management: Incident Management Screen Scheme",
+        "description": "",
+        "screens": {
+            "default": 10029,
+            "edit": 10030,
+            "create": 10029,
+            "view": 10030
+        }
+    },
+    {
+        "id": 10025,
+        "name": "ITSAMPLE: Jira Service Management: Problem Management Screen Scheme",
+        "description": "",
+        "screens": {
+            "default": 10031,
+            "edit": 10032,
+            "create": 10031,
+            "view": 10032
+        }
+    },
+    {
+        "id": 10026,
+        "name": "ITSAMPLE: Jira Service Management: Request Fulfilment Screen Scheme",
+        "description": "",
+        "screens": {
+            "default": 10033,
+            "edit": 10034,
+            "create": 10033,
+            "view": 10034
+        }
+    },
+    {
+        "id": 10027,
+        "name": "HELP: Jira Service Management Screen Scheme",
+        "description": "This Jira Service Management Screen Scheme was generated automatically",
+        "screens": {
+            "default": 10035
+        }
+    },
+    {
+        "id": 10028,
+        "name": "HELP: Jira Service Management: Change Management Screen Scheme",
+        "description": "",
+        "screens": {
+            "default": 10036,
+            "edit": 10037,
+            "create": 10036,
+            "view": 10037
+        }
+    },
+    {
+        "id": 10029,
+        "name": "HELP: Jira Service Management: Incident Management Screen Scheme",
+        "description": "",
+        "screens": {
+            "default": 10038,
+            "edit": 10039,
+            "create": 10038,
+            "view": 10039
+        }
+    },
+    {
+        "id": 10030,
+        "name": "HELP: Jira Service Management: Problem Management Screen Scheme",
+        "description": "",
+        "screens": {
+            "default": 10040,
+            "edit": 10041,
+            "create": 10040,
+            "view": 10041
+        }
+    },
+    {
+        "id": 10031,
+        "name": "HELP: Jira Service Management: Request Fulfilment Screen Scheme",
+        "description": "",
+        "screens": {
+            "default": 10042,
+            "edit": 10043,
+            "create": 10042,
+            "view": 10043
+        }
+    },
+    {
+        "id": 10032,
+        "name": "HR: Jira Service Management Screen Scheme",
+        "description": "This Jira Service Management Screen Scheme was generated automatically",
+        "screens": {
+            "default": 10080
+        }
+    },
+    {
+        "id": 10033,
+        "name": "HR: Jira Service Management: Employee Onboarding Screen Scheme",
+        "description": "This Jira Service Management Screen Scheme was generated automatically",
+        "screens": {
+            "default": 10081
+        }
+    }
+]

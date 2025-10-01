@@ -1,0 +1,26 @@
+{
+  "id": "customfield_11232",
+  "key": "customfield_11232",
+  "name": "Designs ready",
+  "untranslatedName": "Designs ready",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Designs ready[Checkbox]",
+    "cf[11232]",
+    "Designs ready"
+  ],
+  "scope": {
+    "type": "PROJECT",
+    "project": {
+      "id": "11245"
+    }
+  },
+  "schema": {
+    "type": "number",
+    "custom": "jira.polaris:boolean",
+    "customId": 11232
+  }
+}

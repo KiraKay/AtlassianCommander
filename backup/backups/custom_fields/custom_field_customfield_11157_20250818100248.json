@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11157",
+  "key": "customfield_11157",
+  "name": "Expected Release URL",
+  "untranslatedName": "Expected Release URL",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "Expected Release URL[URL Field]",
+    "Expected Release URL",
+    "cf[11157]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:url",
+    "customId": 11157
+  }
+}

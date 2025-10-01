@@ -1,0 +1,19 @@
+{
+  "id": "customfield_11055",
+  "key": "customfield_11055",
+  "name": "Target end",
+  "untranslatedName": "Target end",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11055]",
+    "Target end"
+  ],
+  "schema": {
+    "type": "date",
+    "custom": "com.atlassian.jpo:jpo-custom-field-baseline-end",
+    "customId": 11055
+  }
+}

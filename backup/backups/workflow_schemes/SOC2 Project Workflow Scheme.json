@@ -1,0 +1,13 @@
+{
+  "id": 11319,
+  "name": "SOC2 Project Workflow Scheme",
+  "description": "",
+  "defaultWorkflow": "SOC2 Project Workflow",
+  "issueTypeMappings": {
+    "10000": "SOC2 Project Workflow",
+    "3": "SOC2 Project Workflow",
+    "10169": "SOC2 Project Workflow",
+    "5": "SOC2 Project Workflow"
+  },
+  "self": "https://openvpn.atlassian.net/rest/api/3/workflowscheme/11319"
+}

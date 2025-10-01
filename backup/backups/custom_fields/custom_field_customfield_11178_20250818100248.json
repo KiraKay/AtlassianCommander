@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11178",
+  "key": "customfield_11178",
+  "name": "LDAP Client's Group",
+  "untranslatedName": "LDAP Client's Group",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "LDAP Client's Group[Short text]",
+    "LDAP Client's Group",
+    "cf[11178]"
+  ],
+  "schema": {
+    "type": "string",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "customId": 11178
+  }
+}

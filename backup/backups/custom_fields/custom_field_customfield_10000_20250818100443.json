@@ -1,0 +1,20 @@
+{
+  "id": "customfield_10000",
+  "key": "customfield_10000",
+  "name": "[CHART] Time in Status",
+  "untranslatedName": "[CHART] Time in Status",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "[CHART] Time in Status",
+    "[CHART] Time in Status[Time in Status]",
+    "cf[10000]"
+  ],
+  "schema": {
+    "type": "any",
+    "custom": "com.atlassian.jira.ext.charting:timeinstatus",
+    "customId": 10000
+  }
+}

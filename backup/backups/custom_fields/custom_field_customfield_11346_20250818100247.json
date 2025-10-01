@@ -1,0 +1,20 @@
+{
+  "id": "customfield_11346",
+  "key": "customfield_11346",
+  "name": "Idea archived",
+  "untranslatedName": "Idea archived",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[11346]",
+    "Idea archived[Dropdown]",
+    "Idea archived"
+  ],
+  "schema": {
+    "type": "option",
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "customId": 11346
+  }
+}

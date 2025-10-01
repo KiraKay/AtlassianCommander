@@ -1,0 +1,10 @@
+{
+  "id": 11516,
+  "name": "Jira Service Management IT Support Workflow Scheme generated for Project KSP",
+  "description": "This Jira Service Management IT Support Workflow Scheme was generated for Project KSP",
+  "defaultWorkflow": "New of HELP: Service Request Integrations Workflow",
+  "issueTypeMappings": {
+    "10334": "HELP Service Request Integrations Workflow Approval Required"
+  },
+  "self": "https://openvpn.atlassian.net/rest/api/3/workflowscheme/11516"
+}

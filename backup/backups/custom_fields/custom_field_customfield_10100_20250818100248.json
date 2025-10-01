@@ -1,0 +1,19 @@
+{
+  "id": "customfield_10100",
+  "key": "customfield_10100",
+  "name": "Rank",
+  "untranslatedName": "Rank",
+  "custom": true,
+  "orderable": true,
+  "navigable": true,
+  "searchable": true,
+  "clauseNames": [
+    "cf[10100]",
+    "Rank"
+  ],
+  "schema": {
+    "type": "any",
+    "custom": "com.pyxis.greenhopper.jira:gh-lexo-rank",
+    "customId": 10100
+  }
+}
